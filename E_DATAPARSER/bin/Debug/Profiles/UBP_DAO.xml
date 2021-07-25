@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+
+  <!--<DLL FilePath="Profiles\METROBANK\ClientDLL.dll" RunNativeGenerateOutput="True"></DLL> 
+  <DLL FilePath="D:\ACC\Projects\E_DATAPARSER\ClientDLL_UBP_DAO\bin\Debug\ClientDLL_UBP_DAO.dll" RunNativeGenerateOutput="True"></DLL>  
+  <DLL FilePath="L:\E_DATAPARSER\E_DATAPARSER\ClientDLL_UBP_DAO\bin\Debug\ClientDLL_UBP_DAO.dll" RunNativeGenerateOutput="True"></DLL>
+  <DLL FilePath="D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_UBP_DAO\bin\Debug\ClientDLL_UBP_DAO.dll" RunNativeGenerateOutput="True"></DLL>-->
+  <DLL FilePath="Profiles\UBP\ClientDLL_UBP_DAO.dll" RunNativeGenerateOutput="True"></DLL>
+  
+  <Input ParserType="FixLen" IsWithHeader="True"> 
+	<Column ID="NAME" StartPosition="20" DataLength="130"></Column>
+	<Column ID="CARDNUMBER" StartPosition="181" DataLength="19"></Column>
+	<Column ID="ADDRESS" StartPosition="0" DataLength="0"></Column>
+	<Column ID="REFNO" StartPosition="4" DataLength="10"></Column>
+	<Column ID="ACCOUNTNUMBER" StartPosition="158" DataLength="12"></Column>
+  </Input>  
+ 
+  <Output ParserType="Delimited" Delimiter="|" OutputFileName="_2" FileExtension=".txt"  IsWithHeader="True" PDFOutput="001,002" Exclusion="001">	
+	<Column ID="NAME"></Column>
+	<Column ID="CARDNUMBER"></Column>
+	<Column ID="ADDRESS"></Column>
+	<Column ID="REFNO"></Column>	
+	<Column ID="ACCOUNTNUMBER"></Column>
+	<Column ID="CARDNUMBER_REPLACED" Replace="001"></Column>
+	<Column ID="MASKEDCARDNUMBER" Concatenate="001"></Column>
+	<Column ID="REFERENCENO1" DefaultValue="REFERENCE NO: {{REFNO}}"></Column>
+	<Column ID="REFERENCENO2" DefaultValue="REFERENCE NO: {{REFNO}}"></Column>
+	<Column ID="REFERENCENO3" DefaultValue="REFERENCE NUMBER"></Column>
+	<Column ID="REFERENCENO4" DefaultValue="{{REFNO}} - CARD"></Column>
+	<Column ID="BARCODE" DefaultValue="{{REFNO}}"></Column>
+  </Output>   
+  
+  <Concatenate ID="001">		
+	<Column ID="CARDNUMBER1" DefaultValue="CARD NO: "></Column>
+	<Column ID="CARDNUMBER2" RefID="CARDNUMBER_REPLACED" SubStr="0,6"></Column>
+	<Column ID="CARDNUMBER3" DefaultValue="XXXXXX"></Column>
+	<Column ID="CARDNUMBER4" RefID="CARDNUMBER_REPLACED" SubStr="12,4"></Column>
+  </Concatenate> 
+
+  <Replace ID="001">			
+	<Column ID="CARDNUMBER" RefID="CARDNUMBER" OldValue=" " NewValue=""></Column>	
+  </Replace>  
+  
+  <Exclusion ID="001">	
+	<Column ID="ADDRESS" RefID="ADDRESS" FilterExpression="2" Value="" DataType="String"></Column>	
+  </Exclusion>
+  
+   <PDFOutput ID="001" RecordPerPage="1" OutputFileName="">
+	<Column ID="NAME" ObjectType="String" XFontName="Bookman Old Style"  XFontSize="9.5" XFontStyle="1" XRectX="57"  XRectY="117" XRectWidth="150" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>
+	<Column ID="ADDRESS" ObjectType="String" XFontName="Bookman Old Style"  XFontSize="9.5" XFontStyle="0" XRectX="57"  XRectY="130" XRectWidth="500" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>
+	<Column ID="MASKEDCARDNUMBER" ObjectType="String" XFontName="Bookman Old Style"  XFontSize="9.5" XFontStyle="0" XRectX="57"  XRectY="152" XRectWidth="180" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>
+	<Column ID="REFERENCENO1" ObjectType="String" XFontName="Bookman Old Style"  XFontSize="9.5" XFontStyle="0" XRectX="57"  XRectY="165" XRectWidth="150" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>		
+  </PDFOutput>  
+  
+   <PDFOutput ID="002" RecordPerPage="1" OutputFileName="_CARD" PageOrientation="Landscape">		
+    <Column ID="REFERENCENO3" ObjectType="String" XFontName="Bookman Old Style"  XFontSize="9.5" XFontStyle="0" XRectX="100"  XRectY="100" XRectWidth="80" XRectHeight="40" XStringFormat="2" XBrush="0" XParagraphAlignment="3" IsDrawRect="0"></Column>	
+	<Column ID="BARCODE" ObjectType="Barcode" BarcodeSymbology="Code128" BarcodeDisplayCode="0" ImageFormat="jpg" CropX="0" CropY="5" CropWidth="118" CropHeight="30" XRectX="200" XRectY="100" XRectWidth="190" XRectHeight="0"></Column>
+	<Column ID="REFERENCENO_LINE" ObjectType="Line" XColorProperty="FromName" XColorParameter="Black" LineHeight="1" X="195" Y="100" Width="195" Height="130"></Column>
+	<Column ID="REFERENCENO4" ObjectType="String" XFontName="Bookman Old Style"  XFontSize="9.5" XFontStyle="0" XRectX="250"  XRectY="130" XRectWidth="180" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>	
+	<Column ID="NAME" ObjectType="String" XFontName="Bookman Old Style"  XFontSize="9.5" XFontStyle="1" XRectX="100"  XRectY="160" XRectWidth="150" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>
+	<Column ID="ADDRESS" ObjectType="String" XFontName="Bookman Old Style"  XFontSize="9.5" XFontStyle="0" XRectX="100"  XRectY="170" XRectWidth="500" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>
+	<Column ID="NAME2" RefID="NAME" ObjectType="String" XFontName="Bookman Old Style"  XFontSize="9.5" XFontStyle="1" XRectX="100"  XRectY="460" XRectWidth="150" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>
+	<Column ID="ADDRESS2" RefID="ADDRESS" ObjectType="String" XFontName="Bookman Old Style"  XFontSize="9.5" XFontStyle="0" XRectX="100"  XRectY="470" XRectWidth="500" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>
+	</PDFOutput>
+  
+</ClientProfile>

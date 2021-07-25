@@ -1,0 +1,328 @@
+01/31/2020 10:31:46 AM ==========================================================================================================================
+01/31/2020 10:31:46 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:31:47 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:31:47 AM Success: 0   Failed: 1
+01/31/2020 10:31:47 AM Total: 1
+01/31/2020 10:31:59 AM ==========================================================================================================================
+01/31/2020 10:31:59 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:31:59 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:31:59 AM Success: 0   Failed: 1
+01/31/2020 10:31:59 AM Total: 1
+01/31/2020 10:32:30 AM ==========================================================================================================================
+01/31/2020 10:32:30 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:32:30 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.txt
+01/31/2020 10:32:30 AM Success: 0   Failed: 1
+01/31/2020 10:32:30 AM Total: 1
+01/31/2020 10:32:31 AM ==========================================================================================================================
+01/31/2020 10:32:31 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:32:31 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.txt
+01/31/2020 10:32:31 AM Success: 0   Failed: 1
+01/31/2020 10:32:31 AM Total: 1
+01/31/2020 10:33:21 AM ==========================================================================================================================
+01/31/2020 10:33:21 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:33:21 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:33:21 AM Success: 0   Failed: 1
+01/31/2020 10:33:21 AM Total: 1
+01/31/2020 10:34:02 AM ==========================================================================================================================
+01/31/2020 10:34:02 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:34:02 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:34:02 AM Success: 0   Failed: 1
+01/31/2020 10:34:02 AM Total: 1
+01/31/2020 10:35:11 AM ==========================================================================================================================
+01/31/2020 10:35:11 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:35:11 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:35:11 AM Success: 0   Failed: 1
+01/31/2020 10:35:11 AM Total: 1
+01/31/2020 10:35:13 AM ==========================================================================================================================
+01/31/2020 10:35:13 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:35:13 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:35:13 AM Success: 0   Failed: 1
+01/31/2020 10:35:13 AM Total: 1
+01/31/2020 10:35:20 AM ==========================================================================================================================
+01/31/2020 10:35:20 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:35:20 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:35:20 AM Success: 0   Failed: 1
+01/31/2020 10:35:20 AM Total: 1
+01/31/2020 10:35:31 AM ==========================================================================================================================
+01/31/2020 10:37:42 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:37:42 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:37:42 AM Success: 0   Failed: 1
+01/31/2020 10:37:42 AM Total: 1
+01/31/2020 10:37:50 AM ==========================================================================================================================
+01/31/2020 10:38:07 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:38:08 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:38:08 AM Success: 0   Failed: 1
+01/31/2020 10:38:08 AM Total: 1
+01/31/2020 10:40:45 AM ==========================================================================================================================
+01/31/2020 10:40:46 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:40:46 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:40:46 AM Success: 0   Failed: 1
+01/31/2020 10:40:46 AM Total: 1
+01/31/2020 10:42:19 AM ==========================================================================================================================
+01/31/2020 10:42:19 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:42:19 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:42:19 AM Success: 0   Failed: 1
+01/31/2020 10:42:19 AM Total: 1
+01/31/2020 10:42:51 AM ==========================================================================================================================
+01/31/2020 10:42:51 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:42:51 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:42:51 AM Success: 0   Failed: 1
+01/31/2020 10:42:51 AM Total: 1
+01/31/2020 10:44:32 AM ==========================================================================================================================
+01/31/2020 10:44:32 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Field CARDNO, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:44:32 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:44:32 AM Success: 0   Failed: 1
+01/31/2020 10:44:32 AM Total: 1
+01/31/2020 10:50:53 AM ==========================================================================================================================
+01/31/2020 10:50:53 AM AddDataRow_TxtFile(): Line 0001  536343 066 642, Field TRACK1, Runtime error catched startIndex cannot be larger than length of string.
+Parameter name: startIndex
+01/31/2020 10:50:53 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:50:53 AM Success: 0   Failed: 1
+01/31/2020 10:50:53 AM Total: 1
+01/31/2020 10:51:25 AM ==========================================================================================================================
+01/31/2020 10:51:25 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 10:51:25 AM Success: 1   Failed: 0
+01/31/2020 10:51:25 AM Total: 1
+01/31/2020 11:19:36 AM ==========================================================================================================================
+01/31/2020 11:19:39 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:19:39 AM Success: 1   Failed: 0
+01/31/2020 11:19:39 AM Total: 1
+01/31/2020 11:19:43 AM ==========================================================================================================================
+01/31/2020 11:19:45 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:19:45 AM Success: 1   Failed: 0
+01/31/2020 11:19:45 AM Total: 1
+01/31/2020 11:20:19 AM ==========================================================================================================================
+01/31/2020 11:20:21 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:20:21 AM Success: 1   Failed: 0
+01/31/2020 11:20:21 AM Total: 1
+01/31/2020 11:21:16 AM ==========================================================================================================================
+01/31/2020 11:21:19 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:21:19 AM Success: 1   Failed: 0
+01/31/2020 11:21:19 AM Total: 1
+01/31/2020 11:21:30 AM ==========================================================================================================================
+01/31/2020 11:21:30 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:21:30 AM Success: 1   Failed: 0
+01/31/2020 11:21:30 AM Total: 1
+01/31/2020 11:23:32 AM ==========================================================================================================================
+01/31/2020 11:23:32 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:23:32 AM Success: 1   Failed: 0
+01/31/2020 11:23:32 AM Total: 1
+01/31/2020 11:23:32 AM ==========================================================================================================================
+01/31/2020 11:23:32 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:23:32 AM Success: 1   Failed: 0
+01/31/2020 11:23:32 AM Total: 1
+01/31/2020 11:24:16 AM ==========================================================================================================================
+01/31/2020 11:24:16 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:24:16 AM Success: 1   Failed: 0
+01/31/2020 11:24:16 AM Total: 1
+01/31/2020 11:24:17 AM ==========================================================================================================================
+01/31/2020 11:24:17 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:24:17 AM Success: 1   Failed: 0
+01/31/2020 11:24:17 AM Total: 1
+01/31/2020 11:25:32 AM ==========================================================================================================================
+01/31/2020 11:25:32 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:25:32 AM Success: 1   Failed: 0
+01/31/2020 11:25:32 AM Total: 1
+01/31/2020 11:25:32 AM ==========================================================================================================================
+01/31/2020 11:25:32 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:25:32 AM Success: 1   Failed: 0
+01/31/2020 11:25:32 AM Total: 1
+01/31/2020 11:26:17 AM ==========================================================================================================================
+01/31/2020 11:26:17 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:26:17 AM Success: 1   Failed: 0
+01/31/2020 11:26:17 AM Total: 1
+01/31/2020 11:27:00 AM ==========================================================================================================================
+01/31/2020 11:27:00 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:27:00 AM Success: 1   Failed: 0
+01/31/2020 11:27:00 AM Total: 1
+01/31/2020 11:27:00 AM ==========================================================================================================================
+01/31/2020 11:27:00 AM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 11:27:00 AM Success: 1   Failed: 0
+01/31/2020 11:27:00 AM Total: 1
+01/31/2020 02:25:20 PM ==========================================================================================================================
+01/31/2020 02:25:20 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 02:25:20 PM Success: 1   Failed: 0
+01/31/2020 02:25:20 PM Total: 1
+01/31/2020 02:26:14 PM ==========================================================================================================================
+01/31/2020 02:26:14 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 02:26:14 PM Success: 1   Failed: 0
+01/31/2020 02:26:14 PM Total: 1
+01/31/2020 02:27:05 PM ==========================================================================================================================
+01/31/2020 02:27:05 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 02:27:05 PM Success: 1   Failed: 0
+01/31/2020 02:27:05 PM Total: 1
+01/31/2020 02:29:30 PM ==========================================================================================================================
+01/31/2020 02:29:30 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 02:29:30 PM Success: 1   Failed: 0
+01/31/2020 02:29:30 PM Total: 1
+01/31/2020 02:30:57 PM ==========================================================================================================================
+01/31/2020 02:30:57 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 02:30:57 PM Success: 1   Failed: 0
+01/31/2020 02:30:57 PM Total: 1
+01/31/2020 02:36:20 PM ==========================================================================================================================
+01/31/2020 02:36:20 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 02:36:20 PM Success: 1   Failed: 0
+01/31/2020 02:36:20 PM Total: 1
+01/31/2020 03:00:21 PM ==========================================================================================================================
+01/31/2020 03:01:10 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 03:01:10 PM Success: 1   Failed: 0
+01/31/2020 03:01:10 PM Total: 1
+01/31/2020 03:02:45 PM ==========================================================================================================================
+01/31/2020 03:02:45 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 03:02:45 PM Success: 1   Failed: 0
+01/31/2020 03:02:45 PM Total: 1
+01/31/2020 03:03:52 PM ==========================================================================================================================
+01/31/2020 03:03:52 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 03:03:52 PM Success: 1   Failed: 0
+01/31/2020 03:03:52 PM Total: 1
+01/31/2020 03:04:42 PM ==========================================================================================================================
+01/31/2020 03:04:42 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 03:04:42 PM Success: 1   Failed: 0
+01/31/2020 03:04:42 PM Total: 1
+01/31/2020 03:07:47 PM ==========================================================================================================================
+01/31/2020 03:07:47 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 03:07:47 PM Success: 1   Failed: 0
+01/31/2020 03:07:47 PM Total: 1
+01/31/2020 03:09:37 PM ==========================================================================================================================
+01/31/2020 03:09:37 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 03:09:37 PM Success: 1   Failed: 0
+01/31/2020 03:09:37 PM Total: 1
+01/31/2020 03:11:00 PM ==========================================================================================================================
+01/31/2020 03:11:00 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 03:11:00 PM Success: 1   Failed: 0
+01/31/2020 03:11:00 PM Total: 1
+01/31/2020 03:11:49 PM ==========================================================================================================================
+01/31/2020 03:11:49 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_322_0121_N_851_1700.dat
+01/31/2020 03:11:49 PM Success: 1   Failed: 0
+01/31/2020 03:11:49 PM Total: 1
+01/31/2020 03:31:58 PM ==========================================================================================================================
+01/31/2020 03:31:59 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 03:31:59 PM Success: 217   Failed: 0
+01/31/2020 03:31:59 PM Total: 217
+01/31/2020 03:33:31 PM ==========================================================================================================================
+01/31/2020 03:33:32 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 03:33:32 PM Success: 217   Failed: 0
+01/31/2020 03:33:32 PM Total: 217
+01/31/2020 03:35:37 PM ==========================================================================================================================
+01/31/2020 03:35:37 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 03:35:37 PM Success: 217   Failed: 0
+01/31/2020 03:35:37 PM Total: 217
+01/31/2020 04:03:45 PM ==========================================================================================================================
+01/31/2020 04:03:45 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 04:03:45 PM Success: 217   Failed: 0
+01/31/2020 04:03:45 PM Total: 217
+01/31/2020 04:04:58 PM ==========================================================================================================================
+01/31/2020 04:04:58 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 04:04:58 PM Success: 217   Failed: 0
+01/31/2020 04:04:58 PM Total: 217
+01/31/2020 04:30:35 PM ==========================================================================================================================
+01/31/2020 04:30:35 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 04:30:35 PM Success: 217   Failed: 0
+01/31/2020 04:30:35 PM Total: 217
+01/31/2020 04:31:14 PM ==========================================================================================================================
+01/31/2020 04:31:14 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 04:31:14 PM Success: 217   Failed: 0
+01/31/2020 04:31:14 PM Total: 217
+01/31/2020 04:31:15 PM ==========================================================================================================================
+01/31/2020 04:31:16 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 04:31:16 PM Success: 217   Failed: 0
+01/31/2020 04:31:16 PM Total: 217
+01/31/2020 04:32:18 PM ==========================================================================================================================
+01/31/2020 04:32:18 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 04:32:18 PM Success: 217   Failed: 0
+01/31/2020 04:32:18 PM Total: 217
+01/31/2020 04:33:44 PM ==========================================================================================================================
+01/31/2020 04:33:48 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 04:33:48 PM Success: 217   Failed: 0
+01/31/2020 04:33:48 PM Total: 217
+01/31/2020 04:53:01 PM ==========================================================================================================================
+01/31/2020 04:53:05 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 04:53:05 PM Success: 217   Failed: 0
+01/31/2020 04:53:05 PM Total: 217
+01/31/2020 04:56:41 PM ==========================================================================================================================
+01/31/2020 04:56:45 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 04:56:45 PM Success: 217   Failed: 0
+01/31/2020 04:56:45 PM Total: 217
+01/31/2020 04:56:47 PM ==========================================================================================================================
+01/31/2020 04:56:51 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 04:56:51 PM Success: 217   Failed: 0
+01/31/2020 04:56:51 PM Total: 217
+01/31/2020 04:58:16 PM ==========================================================================================================================
+01/31/2020 04:58:20 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 04:58:20 PM Success: 217   Failed: 0
+01/31/2020 04:58:20 PM Total: 217
+01/31/2020 05:05:17 PM ==========================================================================================================================
+01/31/2020 05:05:21 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:05:21 PM Success: 217   Failed: 0
+01/31/2020 05:05:21 PM Total: 217
+01/31/2020 05:07:20 PM ==========================================================================================================================
+01/31/2020 05:07:24 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:07:24 PM Success: 217   Failed: 0
+01/31/2020 05:07:24 PM Total: 217
+01/31/2020 05:08:52 PM ==========================================================================================================================
+01/31/2020 05:08:56 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:08:56 PM Success: 217   Failed: 0
+01/31/2020 05:08:56 PM Total: 217
+01/31/2020 05:10:28 PM ==========================================================================================================================
+01/31/2020 05:10:32 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:10:32 PM Success: 217   Failed: 0
+01/31/2020 05:10:32 PM Total: 217
+01/31/2020 05:11:09 PM ==========================================================================================================================
+01/31/2020 05:11:13 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:11:13 PM Success: 217   Failed: 0
+01/31/2020 05:11:13 PM Total: 217
+01/31/2020 05:11:52 PM ==========================================================================================================================
+01/31/2020 05:11:56 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:11:56 PM Success: 217   Failed: 0
+01/31/2020 05:11:56 PM Total: 217
+01/31/2020 05:12:48 PM ==========================================================================================================================
+01/31/2020 05:12:52 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:12:52 PM Success: 217   Failed: 0
+01/31/2020 05:12:52 PM Total: 217
+01/31/2020 05:29:26 PM ==========================================================================================================================
+01/31/2020 05:29:30 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:29:30 PM Success: 217   Failed: 0
+01/31/2020 05:29:30 PM Total: 217
+01/31/2020 05:34:21 PM ==========================================================================================================================
+01/31/2020 05:34:25 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:34:25 PM Success: 217   Failed: 0
+01/31/2020 05:34:25 PM Total: 217
+01/31/2020 05:35:40 PM ==========================================================================================================================
+01/31/2020 05:35:44 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:35:44 PM Success: 217   Failed: 0
+01/31/2020 05:35:44 PM Total: 217
+01/31/2020 05:39:12 PM ==========================================================================================================================
+01/31/2020 05:39:16 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:39:16 PM Success: 217   Failed: 0
+01/31/2020 05:39:16 PM Total: 217
+01/31/2020 05:41:11 PM ==========================================================================================================================
+01/31/2020 05:41:15 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:41:15 PM Success: 217   Failed: 0
+01/31/2020 05:41:15 PM Total: 217
+01/31/2020 05:43:03 PM ==========================================================================================================================
+01/31/2020 05:43:07 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:43:07 PM Success: 217   Failed: 0
+01/31/2020 05:43:07 PM Total: 217
+01/31/2020 05:55:25 PM ==========================================================================================================================
+01/31/2020 05:55:29 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:55:29 PM Success: 217   Failed: 0
+01/31/2020 05:55:29 PM Total: 217
+01/31/2020 05:57:22 PM ==========================================================================================================================
+01/31/2020 05:57:26 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+01/31/2020 05:57:26 PM Success: 217   Failed: 0
+01/31/2020 05:57:26 PM Total: 217

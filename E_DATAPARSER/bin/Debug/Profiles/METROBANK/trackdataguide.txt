@@ -1,0 +1,13 @@
+%B5363430666421812^ /                        ^300120100000728?;5363430666421812=300120100000728?
+  ------A--------- ----------B--------------- --C-=D=++E++-F-  -----cardno----- --C-=D=++E++-F-
+
+
+	NAME(Start Position: End Position)
+A.CARD NO(7:24 TRIM SPACE)
+B.NAME(31:56)
+C.EXPIRY DATE(63:66)
+D.SERVICE CODE(212:214)
+E.DESCRETIONARY DATA(5 na 0(zero))-static 00000
+F.CVC1(68:70)
+
+

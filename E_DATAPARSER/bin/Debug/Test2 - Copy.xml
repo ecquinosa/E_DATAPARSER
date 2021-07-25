@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+  <Input ParserType="FixLen"> 
+	<Column ID="SeriesNo" StartPosition="0" DataLength="6"></Column>
+	<Column ID="SRNO" StartPosition="6" DataLength="15"></Column>
+	<Column ID="CardNumber" StartPosition="21" DataLength="30"></Column>
+	<Column ID="ExpiryDate" StartPosition="51" DataLength="30"></Column>
+	<Column ID="Line3" StartPosition="81" DataLength="30"></Column>
+	<Column ID="Line4" StartPosition="111" DataLength="30"></Column>	
+	<Column ID="Line5" StartPosition="141" DataLength="30"></Column>	
+	<Column ID="Track1" StartPosition="171" DataLength="79"></Column>	
+	<Column ID="Track2" StartPosition="250" DataLength="40"></Column>
+	<Column ID="Indent" StartPosition="290" DataLength="20"></Column>
+	<Column ID="CVC2" StartPosition="310" DataLength="3"></Column>
+	<Column ID="TPIN" StartPosition="313" DataLength="4"></Column>
+	<Column ID="CARDTYPE" StartPosition="317" DataLength="1"></Column>
+	<Column ID="PLASTICCODE" StartPosition="318" DataLength="30"></Column>
+	<Column ID="SORTCODE" StartPosition="348" DataLength="16"></Column>
+	<Column ID="SETUPCODE" StartPosition="364" DataLength="6"></Column>
+	<Column ID="PACKAGING_CODE" StartPosition="370" DataLength="16"></Column>
+	<Column ID="ADDRESS1" StartPosition="386" DataLength="30"></Column>
+	<Column ID="ADDRESS2" StartPosition="416" DataLength="30"></Column>
+	<Column ID="ADDRESS3" StartPosition="446" DataLength="30"></Column>
+	<Column ID="BRANCHCODE" StartPosition="476" DataLength="4"></Column>
+	<Column ID="COURIER_CODE" StartPosition="480" DataLength="4"></Column>
+	<Column ID="CARD_TYPE" StartPosition="484" DataLength="1"></Column>
+	<Column ID="ENCRYPTED_CARD_NUMBER" StartPosition="485" DataLength="18"></Column>
+	<Column ID="MEMO" StartPosition="503" DataLength="255"></Column>
+	<Column ID="PROGRAM_CLASS" StartPosition="758" DataLength="10"></Column>
+	<Column ID="REFERROR_CODE" StartPosition="768" DataLength="30"></Column>
+	<Column ID="FIRSTID" StartPosition="798" DataLength="30"></Column>
+	<Column ID="MIDDLEID" StartPosition="826" DataLength="30"></Column>
+	<Column ID="LASTID" StartPosition="858" DataLength="30"></Column>
+	<Column ID="EMBREASONCODE" StartPosition="952" DataLength="3"></Column>
+	<Column ID="OTHER" StartPosition="888" DataLength="193"></Column>
+  </Input>
+  <Output ParserType="FixLen" FileExtension=".txt">
+	<Column ID="SeriesNo" IDLabel="Series No" DataLength="6"></Column>
+	<Column ID="SRNO" IDLabel="SR NO" DataLength="15"></Column>
+	<Column ID="CardNumber" IDLabel="Card Number" DataLength="30"></Column>
+	<Column ID="ExpiryDate" IDLabel="Expiry Date" DataLength="30"></Column>
+	<Column ID="Line3" IDLabel="Line3" DataLength="30"></Column>
+	<Column ID="Line4" IDLabel="Line4" DataLength="30"></Column>	
+	<Column ID="Line5" IDLabel="Line5" DataLength="30"></Column>	
+	<Column ID="Track1" IDLabel="Track1" DataLength="79"></Column>	
+	<Column ID="Track2" IDLabel="Track2" DataLength="40"></Column>
+	<Column ID="Indent" IDLabel="Indent" DataLength="20"></Column>
+	<Column ID="CVC2" IDLabel="CVC2" DataLength="3"></Column>
+	<Column ID="TPIN" IDLabel="TPIN" DataLength="4"></Column>
+	<Column ID="CARDTYPE" IDLabel="CARD TYPE" DataLength="1"></Column>
+	<Column ID="PLASTICCODE" IDLabel="PLASTIC CODE" DataLength="30" Trim="1"></Column>
+	<Column ID="SORTCODE" IDLabel="SORT CODE" DataLength="16"></Column>
+	<Column ID="SETUPCODE" IDLabel="SETUPCODE" DataLength="6"></Column>
+	<Column ID="PACKAGING_CODE" IDLabel="PACKAGING_CODE" DataLength="16"></Column>
+	<Column ID="ADDRESS1" IDLabel="ADDRESS1" DataLength="30"></Column>
+	<Column ID="ADDRESS2" IDLabel="ADDRESS2" DataLength="30"></Column>
+	<Column ID="ADDRESS3" IDLabel="ADDRESS3" DataLength="30"></Column>
+	<Column ID="BRANCHCODE" IDLabel="BRANCHCODE" DataLength="4"></Column>
+	<Column ID="COURIER_CODE" IDLabel="COURIER_CODE" DataLength="4"></Column>
+	<Column ID="CARD_TYPE" IDLabel="CARD_TYPE" DataLength="1"></Column>
+	<Column ID="ENCRYPTED_CARD_NUMBER" IDLabel="ENCRYPTED_CARD_NUMBER" DataLength="18"></Column>
+	<Column ID="MEMO" IDLabel="MEMO" DataLength="255"></Column>
+	<Column ID="PROGRAM_CLASS" IDLabel="PROGRAM_CLASS" DataLength="10"></Column>
+	<Column ID="REFERROR_CODE" IDLabel="REFERROR_CODE" DataLength="30"></Column>
+	<Column ID="FIRSTID" IDLabel="FIRSTID" DataLength="30"></Column>
+	<Column ID="MIDDLEID" IDLabel="MIDDLEID" DataLength="30"></Column>
+	<Column ID="LASTID" IDLabel="LASTID" DataLength="30"></Column>
+	<Column ID="EMBREASONCODE" IDLabel="EMBREASONCODE" DataLength="3"></Column>
+	<Column ID="OTHER" IDLabel="OTHER" DataLength="193"></Column>
+	<Column ID="FileDate" IDLabel="FileDate" DataType="DateTime" DefaultValue="Now()" StringFormat="MM/dd/yyyy" ></Column>
+	<Column ID="LastField" IDLabel="LastField" DefaultValue="ISO" ></Column>
+	<Column ID="LastField2" IDLabel="LastField2" DefaultValue="B001{{SeriesNo}}={{FileDate}}?" ></Column>
+  </Output>
+</ClientProfile>

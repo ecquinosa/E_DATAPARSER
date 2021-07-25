@@ -1,0 +1,50 @@
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Utilities\bin\Debug\Utilities.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Utilities\bin\Debug\Utilities.pdb
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Utilities\obj\Debug\Utilities.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Utilities\obj\Debug\Utilities.pdb
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\Internal\ADP\Configurations\MAYBANK\Library\Input\Utilities.dll
+D:\Internal\ADP\Configurations\MAYBANK\Library\Input\Utilities.pdb
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Utilities\obj\Debug\Utilities.dll
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Utilities\obj\Debug\Utilities.pdb
+D:\Internal\Project 2017\ADP\Configurations\MAYBANK\Library\Input\Utilities.dll
+D:\Internal\Project 2017\ADP\Configurations\MAYBANK\Library\Input\Utilities.pdb
+D:\Internal\Project 2017\Ateilla Data Parser Project\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Utilities\obj\Debug\Utilities.dll
+D:\Internal\Project 2017\Ateilla Data Parser Project\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Utilities\obj\Debug\Utilities.pdb
+D:\Internal\Project 2017\Ateilla Data Parser Project\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+F:\Projects\ADP\Configurations\MAYBANK\Library\Input\Utilities.dll
+F:\Projects\ADP\Configurations\MAYBANK\Library\Input\Utilities.pdb
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Utilities\obj\Debug\Utilities.dll
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Utilities\obj\Debug\Utilities.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\ADP\Configurations\MAYBANK\Library\Input\Utilities.dll
+C:\Users\lvagulto\Desktop\Work\2k19\ADP\Configurations\MAYBANK\Library\Input\Utilities.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\ACC\Projects\E_DATAPARSER\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+D:\ACC\Projects\E_DATAPARSER\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\ACC\Projects\E_DATAPARSER\Utilities\obj\Debug\Utilities.dll
+D:\ACC\Projects\E_DATAPARSER\Utilities\obj\Debug\Utilities.pdb
+G:\ADP\Configurations\MAYBANK\Library\Input\Utilities.dll
+G:\ADP\Configurations\MAYBANK\Library\Input\Utilities.pdb
+G:\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+G:\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+G:\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.dll
+G:\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.pdb
+D:\WORK\ADP\Configurations\MAYBANK\Library\Input\Utilities.dll
+D:\WORK\ADP\Configurations\MAYBANK\Library\Input\Utilities.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.pdb
+D:\ADP\Configurations\MAYBANK\Library\Input\Utilities.dll
+D:\ADP\Configurations\MAYBANK\Library\Input\Utilities.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\Utilities\obj\Debug\Utilities.pdb

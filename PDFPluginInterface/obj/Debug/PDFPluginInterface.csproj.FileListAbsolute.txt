@@ -1,0 +1,50 @@
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\PDFPluginInterface\bin\Debug\PDFPluginInterface.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\PDFPluginInterface\bin\Debug\PDFPluginInterface.pdb
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\PDFPluginInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\PDFPluginInterface\obj\Debug\PDFPluginInterface.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\PDFPluginInterface\obj\Debug\PDFPluginInterface.pdb
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Plugin_Interfaces\PDFPluginInterface\bin\Debug\PDFPluginInterface.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Plugin_Interfaces\PDFPluginInterface\bin\Debug\PDFPluginInterface.pdb
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Plugin_Interfaces\PDFPluginInterface\obj\Debug\PDFPluginInterface.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Plugin_Interfaces\PDFPluginInterface\obj\Debug\PDFPluginInterface.pdb
+D:\Internal\ADP\Configurations\MAYBANK\Library\Output\PDF\PDFPluginInterface.dll
+D:\Internal\ADP\Configurations\MAYBANK\Library\Output\PDF\PDFPluginInterface.pdb
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugin_Interfaces\PDFPluginInterface\obj\Debug\PDFPluginInterface.dll
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugin_Interfaces\PDFPluginInterface\obj\Debug\PDFPluginInterface.pdb
+D:\Internal\Project 2017\ADP\Configurations\MAYBANK\Library\Output\PDF\PDFPluginInterface.dll
+D:\Internal\Project 2017\ADP\Configurations\MAYBANK\Library\Output\PDF\PDFPluginInterface.pdb
+D:\Internal\Project 2017\Ateilla Data Parser Project\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugin_Interfaces\PDFPluginInterface\obj\Debug\PDFPluginInterface.dll
+D:\Internal\Project 2017\Ateilla Data Parser Project\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugin_Interfaces\PDFPluginInterface\obj\Debug\PDFPluginInterface.pdb
+F:\Projects\ADP\Configurations\MAYBANK\Library\Output\PDF\PDFPluginInterface.dll
+F:\Projects\ADP\Configurations\MAYBANK\Library\Output\PDF\PDFPluginInterface.pdb
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugin_Interfaces\PDFPluginInterface\obj\Debug\PDFPluginInterface.csproj.CoreCompileInputs.cache
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugin_Interfaces\PDFPluginInterface\obj\Debug\PDFPluginInterface.dll
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugin_Interfaces\PDFPluginInterface\obj\Debug\PDFPluginInterface.pdb
+C:\Users\lvagulto\Desktop\Work\ADP\Configurations\MAYBANK\Library\Output\PDF\PDFPluginInterface.dll
+C:\Users\lvagulto\Desktop\Work\ADP\Configurations\MAYBANK\Library\Output\PDF\PDFPluginInterface.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.csprojResolveAssemblyReference.cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.pdb
+D:\ACC\Projects\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.csprojAssemblyReference.cache
+D:\ACC\Projects\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.csproj.CoreCompileInputs.cache
+D:\ACC\Projects\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.dll
+D:\ACC\Projects\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.pdb
+G:\ADP\Configurations\MAYBANK\Library\Output\PDF\PDFPluginInterface.dll
+G:\ADP\Configurations\MAYBANK\Library\Output\PDF\PDFPluginInterface.pdb
+G:\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.csprojAssemblyReference.cache
+G:\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.csproj.CoreCompileInputs.cache
+G:\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.dll
+G:\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.csprojAssemblyReference.cache
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.pdb
+D:\ADP\Configurations\MAYBANK\Library\Output\PDF\PDFPluginInterface.dll
+D:\ADP\Configurations\MAYBANK\Library\Output\PDF\PDFPluginInterface.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.csprojAssemblyReference.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.csproj.CoreCompileInputs.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFPluginInterface\obj\Debug\PDFPluginInterface.pdb

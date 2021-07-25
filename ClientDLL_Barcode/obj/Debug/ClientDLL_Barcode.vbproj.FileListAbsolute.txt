@@ -1,0 +1,234 @@
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Metrobank_Yazz_AR.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Metrobank_Yazz_AR.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Metrobank_Yazz_AR.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\GenCode128.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFLibraryDT.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFPluginInterface.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Utilities.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PdfSharp.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\BARCODE.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\stdole.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFLibraryDT.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFPluginInterface.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Utilities.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\BARCODE.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbprojResolveAssemblyReference.cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Metrobank_Yazz_AR.frmARSEQ.resources
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Metrobank_Yazz_AR.frmConfig.resources
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Metrobank_Yazz_AR.Resources.resources
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.GenerateResource.Cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.CoreCompileInputs.cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Metrobank_Yazz_AR.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Metrobank_Yazz_AR.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Metrobank_Yazz_AR.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.xml
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\GenCode128.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\stdole.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbprojResolveAssemblyReference.cache
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.frmARSEQ.resources
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.frmConfig.resources
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.Resources.resources
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.GenerateResource.Cache
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.CoreCompileInputs.cache
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.xml
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFLibrary.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFPluginInterface.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Utilities.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PdfSharp.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\BARCODE.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFLibrary.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFPluginInterface.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Utilities.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\BARCODE.pdb
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.pdb
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.xml
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.Shared.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\GenCode128.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFLibrary.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFPluginInterface.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Utilities.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PdfSharp.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\BARCODE.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\stdole.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFLibrary.pdb
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFPluginInterface.pdb
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Utilities.pdb
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\BARCODE.pdb
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbprojAssemblyReference.cache
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.frmARSEQ.resources
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.frmConfig.resources
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.Resources.resources
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.GenerateResource.cache
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.CoreCompileInputs.cache
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.CopyComplete
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.dll
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.xml
+D:\ACC\Projects\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.pdb
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.pdb
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.xml
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.Shared.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\GenCode128.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFLibrary.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFPluginInterface.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Utilities.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PdfSharp.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\BARCODE.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\stdole.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFLibrary.pdb
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFPluginInterface.pdb
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Utilities.pdb
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\BARCODE.pdb
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbprojAssemblyReference.cache
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.frmARSEQ.resources
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.frmConfig.resources
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.Resources.resources
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.GenerateResource.cache
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.CoreCompileInputs.cache
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.CopyComplete
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.dll
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.xml
+G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.xml
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\GenCode128.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFLibrary.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFPluginInterface.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Utilities.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PdfSharp.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\BARCODE.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\stdole.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFLibrary.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFPluginInterface.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Utilities.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\BARCODE.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbprojAssemblyReference.cache
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.frmARSEQ.resources
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.frmConfig.resources
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.Resources.resources
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.GenerateResource.cache
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.CopyComplete
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.xml
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\ClientDLL_Barcode.xml
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.Shared.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\GenCode128.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFLibrary.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFPluginInterface.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Utilities.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PdfSharp.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\BARCODE.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\stdole.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFLibrary.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\PDFPluginInterface.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\Utilities.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\bin\Debug\BARCODE.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbprojAssemblyReference.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.frmARSEQ.resources
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.frmConfig.resources
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.Resources.resources
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.GenerateResource.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.CoreCompileInputs.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.vbproj.CopyComplete
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.xml
+D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_Barcode\obj\Debug\ClientDLL_Barcode.pdb

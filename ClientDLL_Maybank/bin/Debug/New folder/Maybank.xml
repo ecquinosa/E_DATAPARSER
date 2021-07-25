@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+
+  <DLL FilePath="Profiles\MAYBANK\ClientDLL_Maybank.dll" RunNativeGenerateOutput="True"></DLL>
+  <!--<DLL FilePath="G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Maybank\bin\Debug\ClientDLL_Maybank.dll" RunNativeGenerateOutput="True"></DLL>
+  <DLL FilePath="G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_Maybank\bin\Debug\ClientDLL_Maybank.dll" RunNativeGenerateOutput="True"></DLL>-->
+
+  <Input ParserType="Delimited" Delimiter="|" IsWithHeader="True"> 
+	<Column ID="BARCODE" IndexPosition="0"></Column>
+	<Column ID="EMBOSSINGNAME" IndexPosition="1"></Column>
+	<Column ID="EMBOSSINGNAME1" IndexPosition="2"></Column>
+	<Column ID="ADDRESS" IndexPosition="3"></Column>
+	<Column ID="ADDRESS1" IndexPosition="4"></Column>
+	<Column ID="ADDRESS2" IndexPosition="5"></Column>	
+	<Column ID="ADDRESS3" IndexPosition="6"></Column>
+	<Column ID="ADDRESS4" IndexPosition="7"></Column>
+	<Column ID="POSTALCODE" IndexPosition="8"></Column>	
+	<Column ID="CARDNUMBER" IndexPosition="9"></Column>	
+	<Column ID="CREDITLIMIT" IndexPosition="10"></Column>	
+	<Column ID="CASHLIMIT" IndexPosition="11"></Column>	
+	<Column ID="EXPIRYDATE" IndexPosition="12"></Column>	
+	<Column ID="BILLINGCYCLE" IndexPosition="13"></Column>	
+	<Column ID="COURIERCODE" IndexPosition="14"></Column>
+	<Column ID="EB-POSTING-FLAG" IndexPosition="15"></Column>
+  </Input>  
+ 
+  <Output ParserType="Delimited" Delimiter="|" OutputFileName="" FileExtension=".txt"  IsWithHeader="True">
+	<Column ID="BARCODE"></Column>
+	<Column ID="EMBOSSINGNAME"></Column>
+	<Column ID="EMBOSSINGNAME1"></Column>
+	<Column ID="ADDRESS"></Column>
+	<Column ID="ADDRESS1"></Column>
+	<Column ID="ADDRESS2"></Column>
+	<Column ID="ADDRESS3"></Column>
+	<Column ID="ADDRESS4"></Column>
+	<Column ID="POSTALCODE"></Column>
+	<Column ID="CARDNUMBER"></Column>
+	<Column ID="CREDITLIMIT"></Column>
+	<Column ID="CASHLIMIT"></Column>
+	<Column ID="EXPIRYDATE"></Column>
+	<Column ID="BILLINGCYCLE"></Column>
+	<Column ID="COURIERCODE"></Column>
+	<Column ID="EB-POSTING-FLAG"></Column>		
+  </Output> 
+  
+  <!--
+  <Grouping>
+		<Condition FilterExpression="BRANCH_NAME" OutputFileName="_BRANCH_NAME"></Condition>
+	</Grouping>
+  <Condition FilterExpression="BRANCH_NAME" OutputFileName="_BRANCH_NAME" FileExtension=".xlsx"></Condition>-->
+	
+</ClientProfile>

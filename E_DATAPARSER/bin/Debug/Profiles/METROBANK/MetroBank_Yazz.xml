@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+  <!--<DLL FilePath="G:\E_DATAPARSER\ClientDLL_Metrobank_Yazz\bin\Debug\ClientDLL_Metrobank_Yazz.dll" RunNativeGenerateOutput="True"></DLL>-->
+  <DLL FilePath="Profiles\METROBANK\ClientDLL_Metrobank_Yazz.dll" RunNativeGenerateOutput="True"></DLL>
+
+  <Input ParserType="FixLen"> 
+	<Column ID="CARDNO" StartPosition="102" DataLength="16"></Column>	
+	<Column ID="CARDNO_4D" StartPosition="66" DataLength="4"></Column>
+	<Column ID="EXPIRYDATE" StartPosition="60" DataLength="5"></Column>	
+	<Column ID="REFNO" StartPosition="1" DataLength="7"></Column>	
+  </Input>
+  
+  <!--<Output ParserType="FixLen" OutputFileName="_PARSED_DATA" FileExtension=".xls">
+	<Column ID="REFNO" DataLength="8"></Column>	
+	<Column ID="CARDNO" DataLength="4"></Column>
+	<Column ID="EXPIRYDATE" DataLength="5"></Column>	
+  </Output>-->	
+  
+   <Output ParserType="Delimited" OutputFileName="_PARSED_DATA" FileExtension=".xls">
+	<Column ID="REFNO"></Column>	
+	<Column ID="CARDNO_4D"></Column>
+	<Column ID="EXPIRYDATE"></Column>
+	<Column ID="CARDNO"></Column>	
+  </Output>
+ 
+	
+</ClientProfile>

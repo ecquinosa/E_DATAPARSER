@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+
+  <Input ParserType="FixLen"> 
+	<Column ID="NAME" StartPosition="213" DataLength="26"></Column>
+	<Column ID="ADDRESS1" StartPosition="240" DataLength="30"></Column>
+	<Column ID="ADDRESS2" StartPosition="271" DataLength="30"></Column>
+	<Column ID="ADDRESS3" StartPosition="302" DataLength="30"></Column>
+	<Column ID="ADDRESS4" StartPosition="333" DataLength="30"></Column>
+	<Column ID="ADDRESS5" StartPosition="364" DataLength="20"></Column>	
+	<Column ID="ZIPCODE" StartPosition="385" DataLength="5"></Column>	
+	<Column ID="CREDITLIMIT" StartPosition="391" DataLength="35"></Column>	
+	<Column ID="SUBLIMIT" StartPosition="438" DataLength="35"></Column>
+	<Column ID="STATEMENT_DATE" StartPosition="474" DataLength="35"></Column>
+	<Column ID="PAYMENT_DUE_DATE" StartPosition="510" DataLength="35"></Column>	
+  </Input>
+  
+  <!--
+  <Exceptions IsAllColumns="False" >
+	<Column ID="EMBREASONCODE" StartPosition="952" DataLength="3"></Column>
+	<Column ID="OTHER" StartPosition="888" DataLength="193"></Column>
+	</Exceptions>
+	
+	<Grouping>
+		<Condition FilterExpresion="PLASTICCODE,EMBREASONCODE" SortExpression="LASTID" OutputFileName="_PLASTICCODE_EMBREASONCODE" FileExtension=".txt"></Condition>
+	</Grouping>
+	-->
+  
+  <Output ParserType="FixLen">
+	<Column ID="NAME" DataLength="26"></Column>
+	<Column ID="ADDRESS1" DataLength="30"></Column>
+	<Column ID="ADDRESS2" DataLength="30"></Column>
+	<Column ID="ADDRESS3" DataLength="30"></Column>
+	<Column ID="ADDRESS4" DataLength="30"></Column>
+	<Column ID="ADDRESS5" DataLength="20"></Column>	
+	<Column ID="ZIPCODE" DataLength="5"></Column>	
+	<Column ID="CREDITLIMIT" DataLength="35"></Column>	
+	<Column ID="SUBLIMIT" DataLength="35"></Column>
+	<Column ID="STATEMENT_DATE" DataLength="35"></Column>
+	<Column ID="PAYMENT_DUE_DATE" DataLength="35"></Column>	
+  </Output>
+	
+</ClientProfile>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+
+  <DLL FilePath="G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_UBP_Epay_CardCarrier\bin\Debug\ClientDLL_UBP_Epay_CardCarrier.dll" RunNativeGenerateOutput="True"></DLL>
+  <!--<DLL FilePath="Profiles\METROBANK\ClientDLL.dll" RunNativeGenerateOutput="True"></DLL> -->
+  
+  <Input ParserType="Delimited" Delimiter="|" IsWithHeader="True"> 
+	<Column ID="EMBOSSNAME" IndexPosition="0"></Column>
+	<Column ID="COMPANY_NAME" IndexPosition="1"></Column>
+	<Column ID="OSP_NAME" IndexPosition="2"></Column>
+	<Column ID="COMPANY_ADDRESS1" IndexPosition="3"></Column>
+	<Column ID="COMPANY_ADDRESS2" IndexPosition="4"></Column>
+	<Column ID="COMPANY_ADDRESS3" IndexPosition="5"></Column>
+	<Column ID="CUSTOMER_GROUP_CODE" IndexPosition="6"></Column>
+	<Column ID="CARDNUMBER" IndexPosition="7"></Column>
+	<Column ID="GETGONUMBER" IndexPosition="8"></Column>
+	<Column ID="BARCODE" IndexPosition="9"></Column>
+	<Column ID="REFNO" IndexPosition="10"></Column>
+	<Column ID="CGROUP" IndexPosition="11"></Column>
+	<Column ID="CType" IndexPosition="12"></Column>
+	<Column ID="BR_CODE" IndexPosition="13"></Column>
+	<Column ID="FILENAME" IndexPosition="5"></Column>
+	<Column ID="CARDHOLDER_ADDRESS" IndexPosition="5"></Column>
+  </Input>  
+ 
+  <Output ParserType="Delimited" Delimiter="|" OutputFileName="_2" FileExtension=".txt"  IsWithHeader="True">	
+	<Column ID="EMBOSSNAME"></Column>
+	<Column ID="COMPANY_NAME"></Column>
+	<Column ID="OSP_NAME"></Column>
+	<Column ID="COMPANY_ADDRESS1"></Column>
+	<Column ID="COMPANY_ADDRESS2"></Column>
+	<Column ID="COMPANY_ADDRESS3"></Column>
+	<Column ID="CUSTOMER_GROUP_CODE"></Column>
+	<Column ID="CARDNUMBER"></Column>
+	<Column ID="GETGONUMBER"></Column>
+	<Column ID="BARCODE"></Column>
+	<Column ID="REFNO"></Column>
+	<Column ID="CGROUP"></Column>
+	<Column ID="CType"></Column>
+	<Column ID="BR_CODE"></Column>
+	<Column ID="FILENAME" DefaultValue="FileName()" FilePathType="1"></Column>	
+	<Column ID="CARDHOLDER_ADDRESS"></Column>
+	<Column ID="DATE" DefaultValue="Now()" DataType="DateTime"></Column>
+  </Output>   
+</ClientProfile>

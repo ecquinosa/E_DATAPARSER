@@ -1,0 +1,110 @@
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\PDFLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\PDFLibrary\bin\Debug\PDFLibrary.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\PDFLibrary\bin\Debug\PDFLibrary.pdb
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\PDFLibrary\obj\Debug\PDFLibrary.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\PDFLibrary\obj\Debug\PDFLibrary.pdb
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\PDFLibrary\bin\Debug\PDFPluginInterface.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\PDFLibrary\bin\Debug\PDFPluginInterface.pdb
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Clients\UBP\EPAY\Output\PDFLibrary\bin\Debug\PDFLibrary.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Clients\UBP\EPAY\Output\PDFLibrary\bin\Debug\PDFLibrary.pdb
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Clients\UBP\EPAY\Output\PDFLibrary\bin\Debug\PDFPluginInterface.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Clients\UBP\EPAY\Output\PDFLibrary\bin\Debug\PDFPluginInterface.pdb
+D:\Internal\Ateilla Data Parser v1.0.0.0\Config\EPAY\Library\Output\PDF\PDFLibrary.dll
+D:\Internal\Ateilla Data Parser v1.0.0.0\Config\EPAY\Library\Output\PDF\PDFLibrary.pdb
+D:\Internal\Ateilla Data Parser v1.0.0.0\Ateilla_Data_Parser\Clients\UBP\EPAY\Output\PDFLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Internal\Ateilla Data Parser v1.0.0.0\Ateilla_Data_Parser\Clients\UBP\EPAY\Output\PDFLibrary\obj\Debug\PDFLibrary.dll
+D:\Internal\Ateilla Data Parser v1.0.0.0\Ateilla_Data_Parser\Clients\UBP\EPAY\Output\PDFLibrary\obj\Debug\PDFLibrary.pdb
+D:\Internal\Ateilla Data Parser\Config\EPAY\Library\Output\PDF\PDFLibrary.dll
+D:\Internal\Ateilla Data Parser\Config\EPAY\Library\Output\PDF\PDFLibrary.pdb
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Clients\UBP\EPAY\Output\PDFLibrary\obj\Debug\PDFLibrary.csprojResolveAssemblyReference.cache
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Clients\UBP\EPAY\Output\PDFLibrary\obj\Debug\PDFLibrary.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\Clients\UBP\EPAY\Output\PDFLibrary\obj\Debug\PDFLibrary.pdb
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Config\EPAY\Library\Output\PDF\PDFLibrary.dll
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Config\EPAY\Library\Output\PDF\PDFLibrary.pdb
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\UBP\EPAY\Output\PDFLibrary\obj\Debug\PDFLibrary.csprojResolveAssemblyReference.cache
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\UBP\EPAY\Output\PDFLibrary\obj\Debug\PDFLibrary.dll
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\UBP\EPAY\Output\PDFLibrary\obj\Debug\PDFLibrary.pdb
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\UBP\GETGODI\Output\PDFLibrary\obj\Debug\PDFLibrary.csprojResolveAssemblyReference.cache
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\UBP\GETGODI\Output\PDFLibrary\obj\Debug\PDFLibrary.dll
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\UBP\GETGODI\Output\PDFLibrary\obj\Debug\PDFLibrary.pdb
+D:\ADP\Configurations\UBPGETGODI\Library\Output\PDF\PDFLibrary.dll
+D:\ADP\Configurations\UBPGETGODI\Library\Output\PDF\PDFLibrary.pdb
+D:\ADP\Configurations\CHINABANK\Library\Output\PDF\PDFLibrary.dll
+D:\ADP\Configurations\CHINABANK\Library\Output\PDF\PDFLibrary.pdb
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary\obj\Debug\PDFLibrary.csprojResolveAssemblyReference.cache
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary\obj\Debug\PDFLibrary.dll
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary\obj\Debug\PDFLibrary.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csprojResolveAssemblyReference.cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibraryDT.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibraryDT.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csprojResolveAssemblyReference.cache
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csproj.CoreCompileInputs.cache
+C:\ADP\Configurations\CHINABANK\Library\Output\PDF\PDFLibrary.dll
+C:\ADP\Configurations\CHINABANK\Library\Output\PDF\PDFLibrary.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFLibrary.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFLibrary.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\BARCODE.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFPluginInterface.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\Utilities.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\BARCODE.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFPluginInterface.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\Utilities.pdb
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\bin\Debug\PDFLibrary.dll
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\bin\Debug\PDFLibrary.pdb
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\bin\Debug\BARCODE.dll
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\bin\Debug\PDFPluginInterface.dll
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\bin\Debug\Utilities.dll
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\bin\Debug\BARCODE.pdb
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\bin\Debug\PDFPluginInterface.pdb
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\bin\Debug\Utilities.pdb
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csprojAssemblyReference.cache
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csproj.CoreCompileInputs.cache
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csproj.CopyComplete
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.dll
+D:\ACC\Projects\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.pdb
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFLibrary.dll
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFLibrary.pdb
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\BARCODE.dll
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFPluginInterface.dll
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\Utilities.dll
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\BARCODE.pdb
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFPluginInterface.pdb
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\Utilities.pdb
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csprojAssemblyReference.cache
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csproj.CoreCompileInputs.cache
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csproj.CopyComplete
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.dll
+G:\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFLibrary.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFLibrary.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\BARCODE.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFPluginInterface.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\Utilities.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\BARCODE.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFPluginInterface.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\Utilities.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csprojAssemblyReference.cache
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csproj.CopyComplete
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFLibrary.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFLibrary.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\BARCODE.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFPluginInterface.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\Utilities.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\BARCODE.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\PDFPluginInterface.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\bin\Debug\Utilities.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csprojAssemblyReference.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csproj.CoreCompileInputs.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.csproj.CopyComplete
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PDFLibrary\obj\Debug\PDFLibrary.pdb

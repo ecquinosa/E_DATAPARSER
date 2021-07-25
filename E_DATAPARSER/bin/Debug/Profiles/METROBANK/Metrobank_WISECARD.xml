@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+  
+  <!--<DLL FilePath="Profiles\METROBANK\ClientDLL.dll" RunNativeGenerateOutput="True"></DLL>-->
+
+  <Input ParserType="FixLen"> 
+	<Column ID="RECORD_ID" StartPosition="0" DataLength="4"></Column>		
+	<Column ID="CARDNO" StartPosition="6" DataLength="18" Replace="001"></Column>	
+	<Column ID="PAN" Concatenate="001"></Column>		
+	<Column ID="ACCTNO" StartPosition="75" DataLength="13"></Column>
+	<Column ID="NAME" StartPosition="30" DataLength="26"></Column>		
+	<Column ID="EXPIRYDATE1" StartPosition="62" DataLength="4"></Column>
+	<Column ID="EXPIRYDATE2" Concatenate="002"></Column>
+	<Column ID="CVC" StartPosition="67" DataLength="3"></Column>	
+	<Column ID="ICVV" StartPosition="71" DataLength="3"></Column>
+	<Column ID="SERVICECODE" StartPosition="211" DataLength="3"></Column>
+	<Column ID="NAME1" Split="001"></Column>
+	<Column ID="EMBOSSDATA" StartPosition="0" DataLength="645"></Column>
+  </Input> 
+  
+  <Output ParserType="FixLen" OutputFileName="_PARSED_DATA" FileExtension=".txt">
+	<Column ID="RECORD_ID" IsDisplay="0"></Column>
+	<Column ID="CARDNO" IsDisplay="0"></Column>		
+	<Column ID="PAN" IsDisplay="0"></Column>	
+	<Column ID="ACCTNO" IsDisplay="0"></Column>		
+	<Column ID="NAME" IsDisplay="0"></Column>
+	<Column ID="COMPANYNAME" DefaultValue="" IsDisplay="0"></Column>
+	<Column ID="MEMBERSINCE" DefaultValue="" IsDisplay="0"></Column>
+	<Column ID="EXPIRYDATE1" IsDisplay="0"></Column>		
+	<Column ID="EXPIRYDATE2" IsDisplay="0"></Column>		
+	<Column ID="CVC" IsDisplay="0"></Column>
+	<Column ID="TRACK1" DefaultValue="%B{{CARDNO}}^{{NAME}}^{{EXPIRYDATE1}}{{SERVICECODE}}00000{{CVC}}?" IsDisplay="0"></Column>
+	<Column ID="TRACK2" DefaultValue=";{{CARDNO}}={{EXPIRYDATE1}}{{SERVICECODE}}00000{{CVC}}?" IsDisplay="0"></Column>	
+	<Column ID="ICVV" IsDisplay="0"></Column>		
+	<Column ID="SERVICECODE" IsDisplay="0"></Column>
+	<Column ID="OUTPUT" DefaultValue="{{EMBOSSDATA}}          {{CARDNO}}          {{RECORD_ID}}{{TRACK1}}{{TRACK2}}&lt;RECORDID&gt;{{RECORD_ID}}&lt;/RECORDID&gt;&lt;CARDNO&gt;{{CARDNO}}&lt;/CARDNO&gt;&lt;PAN&gt;{{PAN}}&lt;/PAN&gt;&lt;ACCTNO&gt;{{ACCTNO}}&lt;/ACCTNO&gt;&lt;NAME&gt;{{NAME1}}&lt;/NAME&gt;&lt;COMPANYNAME&gt;{{COMPANYNAME}}&lt;/COMPANYNAME&gt;&lt;MEMBERSINCE&gt;{{MEMBERSINCE}}&lt;/MEMBERSINCE&gt;&lt;EXPIRYDATE&gt;{{EXPIRYDATE2}}&lt;/EXPIRYDATE&gt;&lt;CVC&gt;{{CVC}}&lt;/CVC&gt;&lt;TRACK1&gt;{{TRACK1}}&lt;/TRACK1&gt;&lt;TRACK2&gt;{{TRACK2}}&lt;/TRACK2&gt;&lt;TRACK3&gt;&lt;/TRACK3&gt;&lt;ICVV&gt;{{ICVV}}&lt;/ICVV&gt;"></Column>
+  </Output> 
+  
+  <Replace ID="001">			
+	<Column ID="CARDNO1" RefID="CARDNO" OldValue=" " NewValue=""></Column>	
+  </Replace>
+
+  <Split ID="001">			
+	<Column ID="NAME1" RefID="NAME" Delimiter="/" IndexPosition="1"></Column>
+	<Column ID="NAME2" DefaultValue=" "></Column>
+	<Column ID="NAME3" RefID="NAME" Delimiter="/" IndexPosition="0"></Column>
+  </Split>  
+  
+  <Concatenate ID="001">
+	<Column ID="PAN1" RefID="CARDNO" SubStr="0,4"></Column>
+	<Column ID="PAN2" DefaultValue=" "></Column>
+	<Column ID="PAN3" RefID="CARDNO" SubStr="4,4"></Column>
+	<Column ID="PAN4" DefaultValue=" "></Column>
+	<Column ID="PAN5" RefID="CARDNO" SubStr="8,4"></Column>
+	<Column ID="PAN6" DefaultValue=" "></Column>
+	<Column ID="PAN7" RefID="CARDNO" SubStr="12,4"></Column>
+  </Concatenate>
+  
+  <Concatenate ID="002">
+	<Column ID="EXPDATE1" RefID="EXPIRYDATE1" SubStr="2,2"></Column>
+	<Column ID="EXPDATE2" DefaultValue="/"></Column>
+	<Column ID="EXPDATE3" RefID="EXPIRYDATE1" SubStr="0,2"></Column>	
+  </Concatenate>
+	
+</ClientProfile>

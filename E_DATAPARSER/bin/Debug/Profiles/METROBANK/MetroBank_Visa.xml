@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+
+  <DLL FilePath="C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\ClientDLL\bin\Debug\ClientDLL.dll" RunNativeGenerateOutput="True"></DLL>
+  <!--<DLL FilePath="Profiles\METROBANK\ClientDLL.dll" RunNativeGenerateOutput="True"></DLL>-->
+
+  <Input ParserType="FixLen"> 
+	<Column ID="NAME" StartPosition="213" DataLength="26"></Column>
+	<Column ID="ADDRESS1" StartPosition="240" DataLength="100"></Column>
+	<Column ID="ADDRESS2" StartPosition="271" DataLength="100"></Column>
+	<Column ID="ADDRESS3" StartPosition="302" DataLength="100"></Column>
+	<Column ID="ADDRESS4" StartPosition="333" DataLength="100"></Column>
+	<Column ID="ADDRESS5" StartPosition="364" DataLength="20"></Column>	
+	<Column ID="ZIPCODE" StartPosition="385" DataLength="5"></Column>	
+	<Column ID="CREDITLIMIT" StartPosition="391" DataLength="35"></Column>	
+	<Column ID="SUBLIMIT" StartPosition="438" DataLength="35"></Column>
+	<Column ID="STATEMENT_DATE" StartPosition="474" DataLength="35"></Column>
+	<Column ID="REFNO" StartPosition="171" DataLength="16"></Column>	
+  </Input>
+  
+  <!--
+  <Exceptions IsAllColumns="False" >
+	<Column ID="EMBREASONCODE" StartPosition="952" DataLength="3"></Column>
+	<Column ID="OTHER" StartPosition="888" DataLength="193"></Column>
+	</Exceptions>
+	
+	<Grouping></Grouping>
+	
+	<Grouping>
+		<Condition FilterExpression="PLASTICCODE,EMBREASONCODE" SortExpression="LASTID" OutputFileName="_PLASTICCODE_EMBREASONCODE" FileExtension=".txt"></Condition>
+	</Grouping>
+	
+	<Exclusion>
+	<Condition ID="1" FilterExpression="4" Value="ANGELES"></Condition>
+  </Exclusion>
+	
+  
+  <Output ParserType="FixLen" OutputFileName="_PARSED_DATA" FileExtension=".xls">
+	<Column ID="NAME" DataLength="26"></Column>
+	<Column ID="ADDRESS1" DataLength="30"></Column>
+	<Column ID="ADDRESS2" DataLength="30"></Column>
+	<Column ID="ADDRESS3" DataLength="30"></Column>
+	<Column ID="ADDRESS4" DataLength="30"></Column>
+	<Column ID="ADDRESS5" DataLength="20"></Column>	
+	<Column ID="ZIPCODE" DataLength="5"></Column>	
+	<Column ID="CREDITLIMIT" DataLength="35" Exclusion="1"></Column>	
+	<Column ID="SUBLIMIT" DataLength="35"></Column>
+	<Column ID="STATEMENT_DATE" DataLength="35"></Column>
+	<Column ID="PAYMENT_DUE_DATE1" DefaultValue="PAYMENT DUE DATE: AT LEAST 21 DAYS" DataLength="55"></Column>
+	<Column ID="PAYMENT_DUE_DATE2" DefaultValue="                                      AFTER STATEMENT DATE" DataLength="55"></Column>		 
+  </Output>
+  -->
+  
+  <Output ParserType="FixLen" OutputFileName="_PARSED_DATA" FileExtension=".xls">
+	<Column ID="NAME" DataLength="26"></Column>	
+	<Column ID="ADDRESS1" DataLength="100"></Column>
+	<Column ID="ADDRESS2" DataLength="100"></Column>
+	<Column ID="ADDRESS3" DataLength="100"></Column>
+	<Column ID="ADDRESS4" DataLength="100"></Column>
+	<Column ID="ADDRESS5" DataLength="20"></Column>	
+	<Column ID="ZIPCODE" DataLength="5"></Column>	
+	<Column ID="CREDITLIMIT" DataLength="35"></Column>	
+	<Column ID="SUBLIMIT" DataLength="35"></Column>
+	<Column ID="STATEMENT_DATE" DataLength="35"></Column>
+	<Column ID="PAYMENT_DUE_DATE1" DefaultValue="PAYMENT DUE DATE: AT LEAST 21 DAYS" DataLength="55"></Column>
+	<Column ID="PAYMENT_DUE_DATE2" DefaultValue="                                      AFTER STATEMENT DATE" DataLength="55"></Column>		 
+	<Column ID="REFNO" DataLength="16"></Column>	
+  </Output>
+  
+ 
+	
+</ClientProfile>

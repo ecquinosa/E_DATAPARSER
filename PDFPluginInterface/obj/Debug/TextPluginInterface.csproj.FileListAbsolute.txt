@@ -1,0 +1,5 @@
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\TextPluginInterface\bin\Debug\TextPluginInterface.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\TextPluginInterface\bin\Debug\TextPluginInterface.pdb
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\TextPluginInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\TextPluginInterface\obj\Debug\TextPluginInterface.dll
+D:\Internal\Ateilla Data Parser\Ateilla_Data_Parser\TextPluginInterface\obj\Debug\TextPluginInterface.pdb

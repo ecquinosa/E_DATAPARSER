@@ -1,0 +1,379 @@
+02/07/2020 02:48:34 PM ==========================================================================================================================
+02/07/2020 02:50:08 PM ==========================================================================================================================
+02/07/2020 02:55:05 PM ==========================================================================================================================
+02/07/2020 02:59:21 PM ==========================================================================================================================
+02/07/2020 02:59:22 PM LoadClientProfile(): Object does not match target type.
+02/07/2020 02:59:24 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 02:59:41 PM ==========================================================================================================================
+02/07/2020 03:01:30 PM ==========================================================================================================================
+02/07/2020 03:08:49 PM ==========================================================================================================================
+02/07/2020 03:12:53 PM ==========================================================================================================================
+02/07/2020 03:13:29 PM ==========================================================================================================================
+02/07/2020 03:17:17 PM ==========================================================================================================================
+02/07/2020 03:22:29 PM ==========================================================================================================================
+02/07/2020 03:22:30 PM LoadClientProfile(): Object does not match target type.
+02/07/2020 03:22:30 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 03:22:35 PM ==========================================================================================================================
+02/07/2020 03:24:32 PM ==========================================================================================================================
+02/07/2020 03:24:39 PM LoadClientProfile(): Object does not match target type.
+02/07/2020 03:29:53 PM ==========================================================================================================================
+02/07/2020 03:29:53 PM LoadClientProfile(): Object does not match target type.
+02/07/2020 03:29:53 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 03:30:45 PM ==========================================================================================================================
+02/07/2020 03:30:45 PM LoadClientProfile(): Object does not match target type.
+02/07/2020 03:30:45 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 03:31:20 PM ==========================================================================================================================
+02/07/2020 03:34:37 PM ==========================================================================================================================
+02/07/2020 04:22:58 PM ==========================================================================================================================
+02/07/2020 04:26:43 PM ==========================================================================================================================
+02/07/2020 04:26:43 PM LoadClientProfile(): Public member 'GetProperty' on type 'ReplaceFieldElement' not found.
+02/07/2020 04:26:43 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 04:26:49 PM ==========================================================================================================================
+02/07/2020 04:28:19 PM ==========================================================================================================================
+02/07/2020 04:28:23 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+02/07/2020 04:28:23 PM Success: 217   Failed: 0
+02/07/2020 04:28:23 PM Total: 217
+02/07/2020 04:39:13 PM ==========================================================================================================================
+02/07/2020 04:39:17 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+02/07/2020 04:39:17 PM Success: 217   Failed: 0
+02/07/2020 04:39:17 PM Total: 217
+02/07/2020 05:39:58 PM ==========================================================================================================================
+02/07/2020 05:39:58 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.String' cannot be converted to type 'ParserDLL.ParserDLL+ParserType'.
+02/07/2020 05:39:58 PM LoadClientProfile(): Object reference not set to an instance of an object.
+02/07/2020 05:39:58 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 05:40:01 PM ==========================================================================================================================
+02/07/2020 05:40:01 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.String' cannot be converted to type 'ParserDLL.ParserDLL+ParserType'.
+02/07/2020 05:40:01 PM LoadClientProfile(): Object reference not set to an instance of an object.
+02/07/2020 05:40:01 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 05:40:32 PM ==========================================================================================================================
+02/07/2020 05:43:37 PM ==========================================================================================================================
+02/07/2020 05:44:18 PM ==========================================================================================================================
+02/07/2020 05:44:20 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.String' cannot be converted to type 'ParserDLL.ParserDLL+ParserType'.
+02/07/2020 05:44:30 PM LoadClientProfile(): Object reference not set to an instance of an object.
+02/07/2020 05:44:30 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 05:44:42 PM ==========================================================================================================================
+02/07/2020 05:44:45 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.String' cannot be converted to type 'ParserDLL.ParserDLL+ParserType'.
+02/07/2020 05:45:19 PM LoadClientProfile(): Object reference not set to an instance of an object.
+02/07/2020 05:45:19 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 05:45:44 PM ==========================================================================================================================
+02/07/2020 05:45:44 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.String' cannot be converted to type 'ParserDLL.ParserDLL+ParserType'.
+02/07/2020 05:45:44 PM LoadClientProfile(): Object reference not set to an instance of an object.
+02/07/2020 05:45:44 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 05:45:52 PM ==========================================================================================================================
+02/07/2020 05:49:28 PM ==========================================================================================================================
+02/07/2020 05:49:43 PM PopulateObjectPerNode(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 05:49:43 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 05:49:43 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 05:49:43 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 05:49:43 PM LoadClientProfile(): Object reference not set to an instance of an object.
+02/07/2020 05:49:43 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 05:50:05 PM ==========================================================================================================================
+02/07/2020 05:50:57 PM PopulateObjectPerNode(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 05:50:57 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 05:50:57 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 05:50:57 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 05:50:57 PM LoadClientProfile(): Object reference not set to an instance of an object.
+02/07/2020 05:50:57 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 05:50:59 PM ==========================================================================================================================
+02/07/2020 05:52:12 PM ==========================================================================================================================
+02/07/2020 05:52:16 PM PopulateObjectPerNode(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 05:52:16 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 05:52:16 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 05:52:16 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 05:52:16 PM LoadClientProfile(): Object reference not set to an instance of an object.
+02/07/2020 05:52:16 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 05:52:24 PM ==========================================================================================================================
+02/07/2020 05:52:52 PM PopulateObjectPerNode(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 05:52:52 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 05:52:52 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 05:52:52 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 05:52:52 PM LoadClientProfile(): Object reference not set to an instance of an object.
+02/07/2020 05:52:52 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 05:52:55 PM ==========================================================================================================================
+02/07/2020 06:16:06 PM ==========================================================================================================================
+02/07/2020 06:16:06 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.String' cannot be converted to type 'System.Int32'.
+02/07/2020 06:16:06 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:16:06 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:16:06 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:16:06 PM LoadClientProfile(): Object reference not set to an instance of an object.
+02/07/2020 06:16:06 PM InputParseData(): Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:16:13 PM ==========================================================================================================================
+02/07/2020 06:18:11 PM ==========================================================================================================================
+02/07/2020 06:21:04 PM ==========================================================================================================================
+02/07/2020 06:21:08 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:21:08 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:21:08 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:21:08 PM AddDataRow_TxtFile(): Line 0001  536343 006 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:08 PM AddDataRow_TxtFile(): Line 0002  536343 006 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:08 PM AddDataRow_TxtFile(): Line 0003  536343 006 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0004  536343 006 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0005  536343 041 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0006  536343 044 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0007  536343 044 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0008  536343 060 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0009  536343 060 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0010  536343 060 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0011  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0012  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0013  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0014  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0015  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0016  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0017  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0018  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0019  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0020  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0021  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0022  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0023  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:09 PM AddDataRow_TxtFile(): Line 0024  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0025  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0026  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0027  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0028  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0029  536343 071 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0030  536343 094 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0031  536343 094 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0032  536343 094 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0033  536343 094 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0034  536343 094 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0035  536343 096 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0036  536343 107 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0037  536343 107 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0038  536343 174 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0039  536343 174 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0040  536343 174 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0041  536343 174 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0042  536343 174 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0043  536343 174 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0044  536343 174 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0045  536343 174 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0046  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:10 PM AddDataRow_TxtFile(): Line 0047  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0048  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0049  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0050  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0051  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0052  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0053  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0054  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0055  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0056  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0057  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0058  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0059  536343 179 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0060  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0061  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0062  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0063  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0064  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0065  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0066  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0067  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0068  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:11 PM AddDataRow_TxtFile(): Line 0069  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0070  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0071  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0072  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0073  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0074  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0075  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0076  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0077  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0078  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0079  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0080  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0081  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0082  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0083  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0084  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0085  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0086  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0087  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0088  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0089  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0090  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0091  536343 243 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:12 PM AddDataRow_TxtFile(): Line 0092  536343 310 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0093  536343 310 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0094  536343 310 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0095  536343 310 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0096  536343 310 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0097  536343 310 600, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0098  536343 310 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0099  536343 310 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0100  536343 310 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0101  536343 411 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0102  536343 411 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0103  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0104  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0105  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0106  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0107  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0108  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0109  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0110  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0111  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0112  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0113  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:13 PM AddDataRow_TxtFile(): Line 0114  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0115  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0116  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0117  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0118  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0119  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0120  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0121  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0122  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0123  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0124  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0125  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0126  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0127  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0128  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0129  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0130  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0131  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0132  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0133  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0134  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0135  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0136  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:14 PM AddDataRow_TxtFile(): Line 0137  536343 442 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0138  536343 492 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0139  536343 492 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0140  536343 492 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0141  536343 492 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0142  536343 492 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0143  536343 492 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0144  536343 492 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0145  536343 492 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0146  536343 539 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0147  536343 539 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0148  536343 539 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0149  536343 539 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0150  536343 539 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0151  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0152  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0153  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0154  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0155  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0156  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0157  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0158  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:15 PM AddDataRow_TxtFile(): Line 0159  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0160  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0161  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0162  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0163  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0164  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0165  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0166  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0167  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0168  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0169  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0170  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0171  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0172  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0173  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0174  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0175  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0176  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0177  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0178  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0179  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0180  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:16 PM AddDataRow_TxtFile(): Line 0181  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0182  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0183  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0184  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0185  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0186  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0187  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0188  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0189  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0190  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0191  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0192  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0193  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0194  536343 609 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0195  536343 657 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0196  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0197  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0198  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0199  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0200  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0201  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0202  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0203  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:17 PM AddDataRow_TxtFile(): Line 0204  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM AddDataRow_TxtFile(): Line 0205  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM AddDataRow_TxtFile(): Line 0206  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM AddDataRow_TxtFile(): Line 0207  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM AddDataRow_TxtFile(): Line 0208  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM AddDataRow_TxtFile(): Line 0209  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM AddDataRow_TxtFile(): Line 0210  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM AddDataRow_TxtFile(): Line 0211  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM AddDataRow_TxtFile(): Line 0212  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM AddDataRow_TxtFile(): Line 0213  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM AddDataRow_TxtFile(): Line 0214  536343 736 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM AddDataRow_TxtFile(): Line 0215  536343 752 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM AddDataRow_TxtFile(): Line 0216  536343 752 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM AddDataRow_TxtFile(): Line 0217  536343 752 601, Field Column1, Runtime error catched Object reference not set to an instance of an object.
+02/07/2020 06:21:18 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+02/07/2020 06:21:18 PM Success: 0   Failed: 217
+02/07/2020 06:21:18 PM Total: 217
+02/07/2020 06:22:36 PM ==========================================================================================================================
+02/07/2020 06:23:54 PM ==========================================================================================================================
+02/07/2020 06:25:58 PM ==========================================================================================================================
+02/07/2020 06:26:12 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:26:12 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:26:12 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:26:16 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+02/07/2020 06:26:16 PM Success: 217   Failed: 0
+02/07/2020 06:26:16 PM Total: 217
+02/07/2020 06:27:25 PM ==========================================================================================================================
+02/07/2020 06:27:25 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:27:25 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:27:25 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:27:29 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+02/07/2020 06:27:29 PM Success: 217   Failed: 0
+02/07/2020 06:27:29 PM Total: 217
+02/07/2020 06:27:48 PM ==========================================================================================================================
+02/07/2020 06:32:07 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:32:07 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:32:07 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:45:52 PM ==========================================================================================================================
+02/07/2020 06:45:58 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:46:00 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:46:03 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:52:48 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+02/07/2020 06:52:48 PM Success: 217   Failed: 0
+02/07/2020 06:52:48 PM Total: 217
+02/07/2020 06:52:51 PM ==========================================================================================================================
+02/07/2020 06:53:09 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:53:17 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:53:20 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:53:36 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+02/07/2020 06:53:36 PM Success: 217   Failed: 0
+02/07/2020 06:53:36 PM Total: 217
+02/07/2020 06:53:46 PM ==========================================================================================================================
+02/07/2020 06:53:55 PM PopulateObjectPerNode(): Runtime error catched Object of type 'System.Int32' cannot be converted to type 'System.String'.
+02/07/2020 06:56:20 PM ==========================================================================================================================
+02/07/2020 07:09:28 PM ==========================================================================================================================
+02/07/2020 07:43:40 PM ==========================================================================================================================
+02/07/2020 07:44:10 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+02/07/2020 07:44:10 PM Success: 217   Failed: 0
+02/07/2020 07:44:10 PM Total: 217
+02/07/2020 08:00:19 PM ==========================================================================================================================
+02/07/2020 08:00:31 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+02/07/2020 08:00:31 PM Success: 217   Failed: 0
+02/07/2020 08:00:31 PM Total: 217
+02/07/2020 08:01:09 PM ==========================================================================================================================
+02/07/2020 08:01:13 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+02/07/2020 08:01:13 PM Success: 217   Failed: 0
+02/07/2020 08:01:13 PM Total: 217
+02/07/2020 08:01:43 PM ==========================================================================================================================
+02/07/2020 08:01:47 PM Input file: D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\260000_442_0103_N_701_1145
+02/07/2020 08:01:47 PM Success: 217   Failed: 0
+02/07/2020 08:01:47 PM Total: 217

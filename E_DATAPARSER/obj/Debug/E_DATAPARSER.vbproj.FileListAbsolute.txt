@@ -1,0 +1,718 @@
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Form1.resources
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.Cache
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojResolveAssemblyReference.cache
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Form1.resources
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.cache
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CopyComplete
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojAssemblyReference.cache
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Form1.resources
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.cache
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CopyComplete
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+E:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojAssemblyReference.cache
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Form1.resources
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.cache
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CopyComplete
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+E:\ACC\Google Docs\Home\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+G:\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+G:\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+G:\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+G:\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+G:\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+G:\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+G:\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+G:\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+G:\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+G:\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+G:\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojAssemblyReference.cache
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Form1.resources
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.cache
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CopyComplete
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+G:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+F:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+F:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+F:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+F:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.dll
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.xml
+F:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojResolveAssemblyReference.cache
+F:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Form1.resources
+F:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+F:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+F:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+F:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+F:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+F:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+F:\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.Cache
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.dll
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.xml
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojResolveAssemblyReference.cache
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Form1.resources
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+D:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.Cache
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojAssemblyReference.cache
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CopyComplete
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Data.v14.1.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Pdf.v14.1.Core.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Pdf.v14.1.Drawing.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Utils.v14.1.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraBars.v14.1.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraPdfViewer.v14.1.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Data.v14.1.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Pdf.v14.1.Core.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Utils.v14.1.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraBars.v14.1.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraPdfViewer.v14.1.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Pdf.v14.1.Core.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Pdf.v14.1.Core.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Pdf.v14.1.Core.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Pdf.v14.1.Core.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.XtraPdfViewer.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.XtraPdfViewer.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.XtraPdfViewer.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.XtraPdfViewer.v14.1.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe.licenses
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Data.v14.1.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Pdf.v14.1.Core.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Pdf.v14.1.Drawing.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Utils.v14.1.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraBars.v14.1.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraPdfViewer.v14.1.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Data.v14.1.xml
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Pdf.v14.1.Core.xml
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Utils.v14.1.xml
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraBars.v14.1.xml
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraPdfViewer.v14.1.xml
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Pdf.v14.1.Core.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Pdf.v14.1.Core.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Pdf.v14.1.Core.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Pdf.v14.1.Core.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.XtraPdfViewer.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.XtraPdfViewer.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.XtraPdfViewer.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.XtraPdfViewer.v14.1.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojAssemblyReference.cache
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Form1.resources
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.cache
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe.licenses
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CopyComplete
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+E:\EDEL\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojResolveAssemblyReference.cache
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Form1.resources
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.Cache
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe.licenses
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Data.v14.1.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Pdf.v14.1.Core.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Pdf.v14.1.Drawing.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Utils.v14.1.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraBars.v14.1.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraPdfViewer.v14.1.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Data.v14.1.xml
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Pdf.v14.1.Core.xml
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Utils.v14.1.xml
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraBars.v14.1.xml
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraPdfViewer.v14.1.xml
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Pdf.v14.1.Core.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Pdf.v14.1.Core.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Pdf.v14.1.Core.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Pdf.v14.1.Core.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.XtraPdfViewer.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.XtraPdfViewer.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.XtraPdfViewer.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.XtraPdfViewer.v14.1.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\ACC\Projects\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe.licenses
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Pdf.v14.1.Core.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Utils.v14.1.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraBars.v14.1.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.XtraPdfViewer.v14.1.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Pdf.v14.1.Core.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Pdf.v14.1.Core.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Pdf.v14.1.Core.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Pdf.v14.1.Core.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.XtraPdfViewer.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.XtraPdfViewer.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.XtraPdfViewer.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.XtraPdfViewer.v14.1.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojResolveAssemblyReference.cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Form1.resources
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.Cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe.licenses
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojResolveAssemblyReference.cache
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Form1.resources
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.Cache
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe.licenses
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojAssemblyReference.cache
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.cache
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe.licenses
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CopyComplete
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojAssemblyReference.cache
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.cache
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe.licenses
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CopyComplete
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.dll
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.dll
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PdfSharp.dll
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.dll
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Vbe.Interop.dll
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.pdb
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.xml
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.xml
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.cache
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe.licenses
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CopyComplete
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.dll
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PdfSharp.dll
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.dll
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.pdb
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.xml
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.xml
+G:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.xml
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucLog.resources
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.dll
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PdfSharp.dll
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.dll
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.pdb
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.xml
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.xml
+F:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucLog.resources
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\AllcardEncryptDecrypt.dll
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\AllcardLicenseHandler.dll
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\AllcardLicenseHandler.pdb
+L:\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojAssemblyReference.cache
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\AllcardLicenseHandler.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Coderr.Client.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\AllcardEncryptDecrypt.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PdfSharp.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\AllcardLicenseHandler.pdb
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Coderr.Client.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.pdb
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojAssemblyReference.cache
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucLog.resources
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.cache
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe.licenses
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CopyComplete
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+F:\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucLog.resources
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.cache
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe.licenses
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Coderr.Client.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Newtonsoft.Json.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Coderr.Client.xml
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Newtonsoft.Json.xml
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CopyComplete
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojAssemblyReference.cache
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PdfSharp.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe.config
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.exe
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\E_DATAPARSER.xml
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\AllcardLicenseHandler.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Coderr.Client.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Newtonsoft.Json.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\AllcardEncryptDecrypt.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\stdole.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\AllcardLicenseHandler.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Coderr.Client.xml
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Newtonsoft.Json.xml
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\ParserDLL.xml
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\office.xml
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbprojAssemblyReference.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.ResolveComReference.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.frmException.resources
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Main.resources
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.Resources.resources
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucData.resources
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucGeneratedOutput.resources
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucInputOutput.resources
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.ucLog.resources
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.GenerateResource.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe.licenses
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CoreCompileInputs.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.vbproj.CopyComplete
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.exe
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.xml
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\obj\Debug\E_DATAPARSER.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PrintDoc.xml
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\PdfSharp.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\QRCoder.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\EPDFSharp.xml

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+  
+  <!--<DLL FilePath="Profiles\METROBANK\ClientDLL.dll" RunNativeGenerateOutput="True"></DLL>-->
+
+  <Input ParserType="FixLen"> 
+	<Column ID="RECORD_ID" StartPosition="8" DataLength="6"></Column>
+	<Column ID="CARDNO" StartPosition="503" DataLength="16"></Column>			
+	<Column ID="PAN" StartPosition="181" DataLength="19"></Column>	
+	<Column ID="ACCTNO" StartPosition="158" DataLength="12"></Column>
+	<Column ID="NAME" StartPosition="451" DataLength="26"></Column>	
+	<Column ID="EXPIRYDATE" StartPosition="477" DataLength="5"></Column>
+	<Column ID="CVC" StartPosition="482" DataLength="3"></Column>
+	<Column ID="TRACK1A" StartPosition="503" DataLength="16"></Column>
+	<Column ID="TRACK1B" StartPosition="520" DataLength="26"></Column>
+	<Column ID="TRACK1C" StartPosition="547" DataLength="31"></Column>
+	<Column ID="TRACK2A" StartPosition="580" DataLength="16"></Column>
+	<Column ID="TRACK2B" StartPosition="597" DataLength="20"></Column>
+	<Column ID="ICVV" StartPosition="489" DataLength="3"></Column>
+  </Input> 
+  
+  <Output ParserType="FixLen" OutputFileName="_PARSED_DATA" FileExtension=".txt">
+	<Column ID="RECORD_ID" DataLength="6" IsDisplay="0"></Column>
+	<Column ID="CARDNO" DataLength="16" IsDisplay="0"></Column>
+	<Column ID="PAN" DataLength="19" IsDisplay="0"></Column>		
+	<Column ID="ACCTNO" DataLength="12" IsDisplay="0"></Column>		
+	<Column ID="NAME" DataLength="26" IsDisplay="0"></Column>
+	<Column ID="COMPANYNAME" DefaultValue="" IsDisplay="0"></Column>
+	<Column ID="MEMBERSINCE" DefaultValue="" IsDisplay="0"></Column>
+	<Column ID="EXPIRYDATE" DataLength="5" IsDisplay="0"></Column>
+	<Column ID="CVC" DataLength="3" IsDisplay="0"></Column>
+	<Column ID="TRACK1A" DataLength="16" IsDisplay="0"></Column>
+	<Column ID="TRACK1B" DataLength="26" IsDisplay="0"></Column>
+	<Column ID="TRACK1C" DataLength="31" IsDisplay="0"></Column>
+	<Column ID="TRACK2A" DataLength="16" IsDisplay="0"></Column>
+	<Column ID="TRACK2B" DataLength="20" IsDisplay="0"></Column>
+	<Column ID="ICVV" DataLength="3" IsDisplay="0"></Column>		
+	<Column ID="OUTPUT" DefaultValue="{{RECORD_ID}}%B{{TRACK1A}}^{{TRACK1B}}^{{TRACK1C}}?;{{TRACK2A}}={{TRACK2B}}?&lt;RECORDID&gt;{{RECORD_ID}}&lt;/RECORDID&gt;&lt;CARDNO&gt;{{CARDNO}}&lt;/CARDNO&gt;&lt;PAN&gt;{{PAN}}&lt;/PAN&gt;&lt;ACCTNO&gt;{{ACCTNO}}&lt;/ACCTNO&gt;&lt;NAME&gt;{{NAME}}&lt;/NAME&gt;&lt;COMPANYNAME&gt;&lt;/COMPANYNAME&gt;&lt;MEMBERSINCE&gt;&lt;/MEMBERSINCE&gt;&lt;EXPIRYDATE&gt;{{EXPIRYDATE}}&lt;/EXPIRYDATE&gt;&lt;CVC&gt;{{CVC}}&lt;/CVC&gt;&lt;TRACK1&gt;%B{{TRACK1A}}^{{TRACK1B}}^{{TRACK1C}}?&lt;/TRACK1&gt;&lt;TRACK2&gt;;{{TRACK2A}}={{TRACK2B}}?&lt;/TRACK2&gt;&lt;TRACK3&gt;&lt;/TRACK3&gt;&lt;ICVV&gt;{{ICVV}}&lt;/ICVV&gt;"></Column>
+  </Output> 
+	
+</ClientProfile>

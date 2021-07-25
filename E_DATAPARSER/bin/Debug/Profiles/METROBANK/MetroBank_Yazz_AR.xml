@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+  <DLL FilePath="C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\METROBANK\ClientDLL_Metrobank_Yazz_AR.dll" RunNativeGenerateOutput="True"></DLL>  
+  <!--<DLL FilePath="Profiles\METROBANK\ClientDLL_Metrobank_Yazz_AR.dll" RunNativeGenerateOutput="True"></DLL>
+  <DLL FilePath="G:\E_DATAPARSER\ClientDLL_Metrobank_Yazz\bin\Debug\ClientDLL_Metrobank_Yazz.dll" RunNativeGenerateOutput="True"></DLL>-->
+
+  <!-- <Input FileExtension=".XLS" ExclColumnQuery="[AR REF NO] As AR_REFNO, [MCC Card Number] As CARDNO, [Reference Number] As REFNO, [Yazz Reference Number] As YAZZ_REFNO, [First Name] As FNAME, [Middle Name] As MNAME, [Last Name] As LNAME, [Primary Billing Address] As ADDRESS, [Alternative Address] As ALT_ADDRESS" ExclWhereQuery="[MCC Card Number] IS NOT NULL">  -->
+	<!-- <Column ID="AR_REFNO" SheetColumnName="AR_REFNO"></Column>	 -->
+	<!-- <Column ID="CARDNO" SheetColumnName="CARDNO"></Column>	 -->
+	<!-- <Column ID="REFNO" SheetColumnName="REFNO"></Column>	 -->
+	<!-- <Column ID="YAZZ_REFNO" SheetColumnName="YAZZ_REFNO"></Column>	 -->
+	<!-- <Column ID="FNAME" SheetColumnName="FNAME"></Column>	 -->
+	<!-- <Column ID="MNAME" SheetColumnName="MNAME"></Column>	 -->
+	<!-- <Column ID="LNAME" SheetColumnName="LNAME"></Column>	 -->
+	<!-- <Column ID="ADDRESS" SheetColumnName="ADDRESS"></Column>	 -->
+	<!-- <Column ID="ALT_ADDRESS" SheetColumnName="ALT_ADDRESS"></Column>	 -->
+  <!-- </Input> -->
+  
+  
+  <!-- Louie -->
+  <Input FileExtension=".XLSX" ExclColumnQuery="[Yazz Reference Number(CardSerno)] As YAZZ_REFNO, [AR Reference Number(DTS Barcode)] As AR_REFNO, [Embossing Dates] As EMBOSSDATE, [First Name] As FNAME, [Middle Name] As MNAME, [Last Name] As LNAME, [Primary Billing Address] As ADDRESS, [Alternate Billing Address] As ALT_ADDRESS" ExclWhereQuery=""> 
+	<Column ID="YAZZ_REFNO" SheetColumnName="YAZZ_REFNO"></Column>	
+	<Column ID="AR_REFNO" SheetColumnName="AR_REFNO"></Column>		
+	<Column ID="EMBOSSDATE" SheetColumnName="EMBOSSDATE"></Column>
+	<Column ID="FNAME" SheetColumnName="FNAME"></Column>	
+	<Column ID="MNAME" SheetColumnName="MNAME"></Column>	
+	<Column ID="LNAME" SheetColumnName="LNAME"></Column>	
+	<Column ID="ADDRESS" SheetColumnName="ADDRESS"></Column>	
+	<Column ID="ALT_ADDRESS" SheetColumnName="ALT_ADDRESS"></Column>	
+  </Input>
+  
+  
+  <!--<Output ParserType="FixLen" OutputFileName="_PARSED_DATA" FileExtension=".xls">
+	<Column ID="REFNO" DataLength="8"></Column>	
+	<Column ID="CARDNO" DataLength="4"></Column>
+	<Column ID="EXPIRYDATE" DataLength="5"></Column>	
+  </Output>-->	
+  
+   <Output ParserType="Delimited" Delimiter="|" OutputFileName="_PARSED_DATA" FileExtension=".txt">
+	<Column ID="YAZZ_REFNO"></Column>	
+	<Column ID="AR_REFNO"></Column>	
+	<Column ID="EMBOSSDATE"></Column>	
+	<Column ID="FNAME"></Column>	
+	<Column ID="MNAME"></Column>	
+	<Column ID="LNAME"></Column>	
+	<Column ID="ADDRESS"></Column>	
+	<Column ID="ALT_ADDRESS"></Column>	
+  </Output>
+ 
+	
+</ClientProfile>

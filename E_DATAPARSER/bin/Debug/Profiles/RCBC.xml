@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+
+  <!--<DLL FilePath="G:\E_DATAPARSER\E_DATAPARSER\ClientDLL_RCBC\bin\Debug\ClientDLL_RCBC.dll" RunNativeGenerateOutput="True"></DLL>
+  <DLL FilePath="D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\ClientDLL_RCBC\bin\Debug\ClientDLL_RCBC.dll" RunNativeGenerateOutput="True"></DLL>  
+  <DLL FilePath="Profiles\RCBC\ClientDLL_RCBC.dll" RunNativeGenerateOutput="True"></DLL>-->
+  <DLL FilePath="D:\20200122\E_DATAPARSER\E_DATAPARSER\ClientDLL_RCBC\bin\Debug\ClientDLL_RCBC.dll" RunNativeGenerateOutput="True"></DLL>
+  
+  <!--<DLL FilePath="Profiles\RCBC\ClientDLL_RCBC.dll" RunNativeGenerateOutput="True"></DLL>-->
+
+   <Input ParserType="Delimited" Delimiter="$"> 
+	<Column ID="NAME" IndexPosition="2"></Column>
+	<Column ID="NAME1" IndexPosition="2"></Column>
+	<Column ID="CARDNUMBER" IndexPosition="1"></Column>
+	<Column ID="BRANCHCODE" IndexPosition="5"></Column>
+	<Column ID="BRANCHNAME" IndexPosition="5"></Column>
+	<Column ID="ADDRESS" IndexPosition="5"></Column>	
+	<Column ID="PRODUCTCODE" IndexPosition="6"></Column>	
+	<Column ID="PRODUCTNAME" IndexPosition="6"></Column>		
+  </Input>
+  
+ <Output ParserType="Delimited" Delimiter="|" OutputFileName="_parsed" FileExtension=".txt"  IsWithHeader="True" PDFOutput="001,002,003" Exclusion="001">
+	<Column ID="PRODUCTNAME"></Column>
+	<Column ID="CARDNUMBER"></Column>
+	<Column ID="MASKEDCARDNUMBER" Concatenate="001"></Column>
+	<Column ID="NAME"></Column>	
+	<Column ID="NAME1"></Column>	
+	<Column ID="ADDRESS"></Column>
+	<Column ID="BARCODE" Concatenate="002"></Column>	
+	<Column ID="PRODUCT_CARDNUMBER" Concatenate="003"></Column>
+	<Column ID="BRANCHCODE"></Column>
+	<Column ID="BRANCHNAME"></Column>
+	<Column ID="BRANCHNAME2" Concatenate="004"></Column>
+	<Column ID="PRODUCTCODE"></Column>
+	<Column ID="PRODUCTCODEANDNAME" Concatenate="005"></Column>
+	<Column ID="FILENAME1" DefaultValue="FileName()" FilePathType="1"></Column>
+	<Column ID="FILENAME2" Concatenate="006"></Column>
+
+	<Grouping>
+		<Condition FilterExpression="PRODUCTCODE,BRANCHCODE" SortExpression="PRODUCTCODE" OutputFileName="_PRODUCTCODE_BRANCHCODE" FileExtension=".txt"></Condition>
+	</Grouping>	
+  </Output>   
+     
+  <Concatenate ID="001">
+	<Column ID="CARDNUMBER1" RefID="CARDNUMBER" SubStr="0,4"></Column>
+	<Column ID="CARDNUMBER2" DefaultValue=" **** **** "></Column>
+	<Column ID="CARDNUMBER3" RefID="CARDNUMBER" SubStr="15,4"></Column>
+  </Concatenate>
+  
+  <Concatenate ID="002">	
+	<Column ID="CARDNUMBER1" RefID="NAME" SubStr="0,2"></Column>
+	<Column ID="CARDNUMBER2" RefID="CARDNUMBER" SubStr="15,4"></Column>	
+  </Concatenate>
+  
+  <Concatenate ID="003">
+	<Column ID="PRODUCT" RefID="PRODUCTNAME"></Column>
+	<Column ID="DASH" DefaultValue=" - "></Column>
+	<Column ID="MASKEDCARDNUMBER" RefID="MASKEDCARDNUMBER"></Column>
+  </Concatenate>
+  
+  <Concatenate ID="004">	
+	<Column ID="LABEL1" DefaultValue="BRANCH: "></Column>
+	<Column ID="BRANCHCODE" RefID="BRANCHCODE"></Column>
+	<Column ID="LABEL2" DefaultValue=" "></Column>
+	<Column ID="BRANCHNAME" RefID="BRANCHNAME"></Column>
+  </Concatenate>
+  
+  <Concatenate ID="005">	
+	<Column ID="LABEL1" DefaultValue="PRODUCT CODE: "></Column>
+	<Column ID="PRODUCTCODE" RefID="PRODUCTCODE"></Column>
+	<Column ID="LABEL2" DefaultValue=" "></Column>
+	<Column ID="PRODUCTNAME" RefID="PRODUCTNAME"></Column>
+  </Concatenate>
+  
+  <Concatenate ID="006">	
+	<Column ID="LABEL1" DefaultValue="FILENAME: "></Column>
+	<Column ID="FILENAME" RefID="FILENAME1"></Column>	
+  </Concatenate>
+  
+   <Exclusion ID="001">	
+	<Column ID="NAME" RefID="NAME" FilterExpression="2" Value="" DataType="String"></Column>	
+  </Exclusion>
+
+  <PDFOutput ID="001" RecordPerPage="1" OutputFileName="_Carrier">
+	<Column ID="PRODUCT_CARDNUMBER" ObjectType="String" XFontName="Arial"  XFontSize="6" XFontStyle="2" XRectX="10"  XRectY="100" XRectWidth="300" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>
+	<Column ID="NAME1" ObjectType="String" XFontName="Arial"  XFontSize="8" XFontStyle="1" XRectX="10"  XRectY="110" XRectWidth="150" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>
+	<Column ID="ADDRESS" ObjectType="String" XFontName="Arial"  XFontSize="8" XFontStyle="0" XRectX="10"  XRectY="140" XRectWidth="300" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>	
+	<Column ID="BARCODE" ObjectType="Barcode" BarcodeSymbology="Code39" BarcodeDisplayCode="0" ImageFormat="jpg" CropX="0" CropY="5" CropWidth="300" CropHeight="30" XRectX="100" XRectY="250" XRectWidth="0" XRectHeight="0"></Column>	
+  </PDFOutput>  
+  
+   <PDFOutput ID="002" RecordPerPage="1" OutputFileName="_CarrierNoName">
+	<Column ID="PRODUCT_CARDNUMBER" ObjectType="String" XFontName="Arial"  XFontSize="6" XFontStyle="2" XRectX="10"  XRectY="100" XRectWidth="300" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>	
+	<Column ID="ADDRESS" ObjectType="String" XFontName="Arial"  XFontSize="8" XFontStyle="0" XRectX="10"  XRectY="140" XRectWidth="300" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>	
+	<Column ID="BARCODE" ObjectType="Barcode" BarcodeSymbology="Code39" BarcodeDisplayCode="0" ImageFormat="jpg" CropX="0" CropY="5" CropWidth="300" CropHeight="30" XRectX="100" XRectY="250" XRectWidth="0" XRectHeight="0"></Column>	
+  </PDFOutput> 
+
+<PDFOutput ID="003" RecordPerPage="30" OutputFileName="_Transmittal">
+	<PageHeader>
+		<Column ID="Header1" DefaultValue="TRANSMITTAL LIST" ObjectType="String" XFontName="Arial"  XFontSize="8" XFontStyle="0" XRectX="30"  XRectY="10" XRectWidth="600" XRectHeight="15" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0" FirstPageOnly="1"></Column>
+		<Column ID="Header2" DefaultValue="Now()" DataType="DateTime" StringFormat="MMMM dd, yyyy" ObjectType="String" XFontName="Arial"  XFontSize="6" XFontStyle="0" XRectX="30"  XRectY="20" XRectWidth="200" XRectHeight="15" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0" FirstPageOnly="1"></Column>
+		<Column ID="FILENAME2" ObjectType="String" XFontName="Arial"  XFontSize="6" XFontStyle="0" XRectX="30"  XRectY="50" XRectWidth="300" XRectHeight="12" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>
+		<Column ID="BRANCHNAME2" ObjectType="String" XFontName="Arial"  XFontSize="6" XFontStyle="0" XRectX="30"  XRectY="60" XRectWidth="300" XRectHeight="12" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>
+		<Column ID="PRODUCTCODEANDNAME" ObjectType="String" XFontName="Arial"  XFontSize="6" XFontStyle="0" XRectX="30"  XRectY="70" XRectWidth="300" XRectHeight="12" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>
+	</PageHeader>
+	
+	<RowHeader>
+		<Column ID="RowHeader1" DefaultValue="NO" ObjectType="String" XFontName="Arial"  XFontSize="6" XFontStyle="1" XRectX="30"  XRectY="90" XRectWidth="30" XRectHeight="10" XStringFormat="2" XBrush="0" XParagraphAlignment="2" IsDrawRect="1"></Column>
+		<Column ID="RowHeader2" DefaultValue="CARD NO" ObjectType="String" XFontName="Arial"  XFontSize="6" XFontStyle="1" XRectX="60"  XRectY="90" XRectWidth="100" XRectHeight="10" XStringFormat="2" XBrush="0" XParagraphAlignment="2" IsDrawRect="1"></Column>	
+		<Column ID="RowHeader3" DefaultValue="NAME" ObjectType="String" XFontName="Arial"  XFontSize="6" XFontStyle="1" XRectX="160"  XRectY="90" XRectWidth="250" XRectHeight="10" XStringFormat="2" XBrush="0" XParagraphAlignment="2" IsDrawRect="1"></Column>
+	</RowHeader>
+	
+	<RowFooter>
+		<Column ID="RowFooter1" DefaultValue="TOTAL" ObjectType="String" XFontName="Arial"  XFontSize="7" XFontStyle="1" XRectX="30"  XRectY="100" XRectWidth="130" XRectHeight="10" XStringFormat="2" XBrush="0" XParagraphAlignment="2" IsDrawRect="1"></Column>		
+		<Column ID="RowFooter2" DefaultValue="Count(MASKEDCARDNUMBER)" ObjectType="String" XFontName="Arial"  XFontSize="7" XFontStyle="0" XRectX="160"  XRectY="100" XRectWidth="250" XRectHeight="10" XStringFormat="2" XBrush="0" XParagraphAlignment="2" IsDrawRect="1"></Column>
+	</RowFooter>
+	
+	<Column ID="SeqCntr" ObjectType="String" XFontName="Arial"  XFontSize="7" XFontStyle="0" XRectX="30"  XRectY="100" XRectWidth="30" XRectHeight="10" XStringFormat="2" XBrush="0" XParagraphAlignment="2" IsDrawRect="1"></Column>
+	<Column ID="MASKEDCARDNUMBER" ObjectType="String" XFontName="Arial"  XFontSize="7" XFontStyle="0" XRectX="60"  XRectY="100" XRectWidth="100" XRectHeight="10" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="1"></Column>	
+	<Column ID="NAME1" ObjectType="String" XFontName="Arial"  XFontSize="7" XFontStyle="0" XRectX="160"  XRectY="100" XRectWidth="250" XRectHeight="10" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="1"></Column>
+	
+	<PageFooter PagingStyle="2"></PageFooter>
+</PDFOutput>   
+  
+   
+  
+  <!-- PDFOutput Notes
+  <Column ID="FILEIMAGE" ObjectType="ImageFromFile" DIType="1" XRectX="10" XRectY="20" XRectWidth="80" XRectHeight="100"></Column>
+  <Footer PagingStyle="2"></Footer>
+	X=distance from left, Y=distance from top 
+	Lineheight = line thickness
+	Horizontal line= Left to right
+	Vertical Line = Top to bottom
+	
+	LineObject
+	horizontal line settings = X="10" Y="160" Width="100" Height="160"
+	vertical line settings = X="10" Y="230" Width="10" Height="260"
+	
+	BARCODE
+	CropX="100" CropY="250" CropWidth="118" CropHeight="50" (crop original image)
+	XRectX="100" XRectY="250" XRectWidth="118" XRectHeight="50" (size of barcode object in pdf)
+	
+	    Reply 
+
+< and > have a special meaning in XML; they are used to define tags.
+So you cannot use them elsewhere as is, you have to escape them, as Richard told you in Solution 1.
+< becomes &lt;
+> becomes &gt;
+& becomes &amp;
+  -->
+	
+</ClientProfile>

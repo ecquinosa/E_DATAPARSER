@@ -1,0 +1,83 @@
+G:\Project 2015\SKYWAY\BARCODE\QRCODEDLL\bin\Debug\BARCODE.dll
+G:\Project 2015\SKYWAY\BARCODE\QRCODEDLL\bin\Debug\BARCODE.pdb
+G:\Project 2015\SKYWAY\BARCODE\QRCODEDLL\obj\Debug\BARCODE.dll
+G:\Project 2015\SKYWAY\BARCODE\QRCODEDLL\obj\Debug\BARCODE.pdb
+C:\Users\JAY-PC\Desktop\Project\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\bin\Debug\BARCODE.dll
+C:\Users\JAY-PC\Desktop\Project\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\bin\Debug\BARCODE.pdb
+C:\Users\JAY-PC\Desktop\Project\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODE.dll
+C:\Users\JAY-PC\Desktop\Project\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODE.pdb
+C:\Users\MCES\Desktop\ALLCARD PLANTProject\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\bin\Debug\BARCODE.dll
+C:\Users\MCES\Desktop\ALLCARD PLANTProject\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\bin\Debug\BARCODE.pdb
+C:\Users\MCES\Desktop\ALLCARD PLANTProject\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODEDLL.csprojResolveAssemblyReference.cache
+C:\Users\MCES\Desktop\ALLCARD PLANTProject\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODE.dll
+C:\Users\MCES\Desktop\ALLCARD PLANTProject\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODE.pdb
+C:\Users\MCES\Desktop\ALLCARD PLANTProject\Perso Software\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\bin\Debug\BARCODE.dll
+C:\Users\MCES\Desktop\ALLCARD PLANTProject\Perso Software\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\bin\Debug\BARCODE.pdb
+C:\Users\MCES\Desktop\ALLCARD PLANTProject\Perso Software\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODE.dll
+C:\Users\MCES\Desktop\ALLCARD PLANTProject\Perso Software\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODE.pdb
+C:\Users\MCES\Desktop\ALLCARD PLANTProject\Perso Software\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODEDLL.csprojResolveAssemblyReference.cache
+G:\Project 2015\INTERNAL\PERSO SOFTWARE\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\bin\Debug\BARCODE.dll
+G:\Project 2015\INTERNAL\PERSO SOFTWARE\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\bin\Debug\BARCODE.pdb
+G:\Project 2015\INTERNAL\PERSO SOFTWARE\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODE.dll
+G:\Project 2015\INTERNAL\PERSO SOFTWARE\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODE.pdb
+G:\Project 2015\INTERNAL\PERSO SOFTWARE\ATeilla Card Perso For Evolis Machine\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODEDLL.csprojResolveAssemblyReference.cache
+D:\Internal\Ateilla Perso Manager\BARCODEDLL\bin\Debug\BARCODE.dll
+D:\Internal\Ateilla Perso Manager\BARCODEDLL\bin\Debug\BARCODE.pdb
+D:\Internal\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODE.dll
+D:\Internal\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODE.pdb
+D:\Internal\Ateilla Perso Manager\BARCODEDLL\obj\Debug\BARCODEDLL.csprojResolveAssemblyReference.cache
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\bin\Debug\BARCODE.dll
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\bin\Debug\BARCODE.pdb
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\obj\Debug\BARCODE.dll
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\obj\Debug\BARCODE.pdb
+D:\Internal\Project 2017\Ateilla Data Parser Project\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\bin\Debug\BARCODE.dll
+D:\Internal\Project 2017\Ateilla Data Parser Project\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\bin\Debug\BARCODE.pdb
+D:\Internal\Project 2017\Ateilla Data Parser Project\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\obj\Debug\BARCODE.dll
+D:\Internal\Project 2017\Ateilla Data Parser Project\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\obj\Debug\BARCODE.pdb
+D:\Internal\Project 2017\Ateilla Data Parser Project\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\obj\Debug\BARCODEDLL.csprojResolveAssemblyReference.cache
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\bin\Debug\BARCODE.dll
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\bin\Debug\BARCODE.pdb
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\obj\Debug\BARCODEDLL.csprojResolveAssemblyReference.cache
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\obj\Debug\BARCODEDLL.csproj.CoreCompileInputs.cache
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\obj\Debug\BARCODE.dll
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Plugins\BARCODEDLL\obj\Debug\BARCODE.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\bin\Debug\BARCODE.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\bin\Debug\BARCODE.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csprojResolveAssemblyReference.cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csproj.CoreCompileInputs.cache
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODE.dll
+C:\Users\lvagulto\Desktop\Work\2k19\Dynamic Barcode R&D\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODE.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\bin\Debug\BARCODE.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\bin\Debug\BARCODE.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csproj.CoreCompileInputs.cache
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODE.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODE.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\bin\Debug\Neodynamic.WinControls.BarcodeProfessional.dll
+C:\Users\lvagulto\Desktop\Work\2k19\DynamicBarcode\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csprojResolveAssemblyReference.cache
+D:\ACC\Projects\E_DATAPARSER\BARCODEDLL\bin\Debug\BARCODE.dll
+D:\ACC\Projects\E_DATAPARSER\BARCODEDLL\bin\Debug\BARCODE.pdb
+D:\ACC\Projects\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csprojAssemblyReference.cache
+D:\ACC\Projects\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csproj.CoreCompileInputs.cache
+D:\ACC\Projects\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csproj.CopyComplete
+D:\ACC\Projects\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODE.dll
+D:\ACC\Projects\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODE.pdb
+G:\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\bin\Debug\BARCODE.dll
+G:\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\bin\Debug\BARCODE.pdb
+G:\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csprojAssemblyReference.cache
+G:\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csproj.CoreCompileInputs.cache
+G:\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csproj.CopyComplete
+G:\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODE.dll
+G:\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODE.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\bin\Debug\BARCODE.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\bin\Debug\BARCODE.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csprojAssemblyReference.cache
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csproj.CopyComplete
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODE.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODE.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\bin\Debug\BARCODE.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\bin\Debug\BARCODE.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csprojAssemblyReference.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csproj.CoreCompileInputs.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODEDLL.csproj.CopyComplete
+D:\20200122\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODE.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\BARCODEDLL\obj\Debug\BARCODE.pdb

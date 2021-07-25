@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+  <Input ParserType="FixLen">
+    <Column ID="Series" StartPosition="0" DataLength="12" />
+    <Column ID="CardNumber" StartPosition="20" DataLength="100" />
+  </Input>
+  <Output ParserType="FixLen">
+    <Column ID="Series" IDLabel="Series" DataLength="12" PaddedChar=" " />
+    <Column ID="CardNumber" IDLabel="CardNumber" DataLength="100" PaddedChar=" " />
+  </Output>
+</ClientProfile>

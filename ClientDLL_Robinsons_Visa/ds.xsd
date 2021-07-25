@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ds" targetNamespace="http://tempuri.org/ds.xsd" xmlns:mstns="http://tempuri.org/ds.xsd" xmlns="http://tempuri.org/ds.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ds" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ds" msprop:Generator_UserDSName="ds">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TransmittalData" msprop:Generator_TableClassName="TransmittalDataDataTable" msprop:Generator_TableVarName="tableTransmittalData" msprop:Generator_TablePropName="TransmittalData" msprop:Generator_RowDeletingName="TransmittalDataRowDeleting" msprop:Generator_RowChangingName="TransmittalDataRowChanging" msprop:Generator_RowEvHandlerName="TransmittalDataRowChangeEventHandler" msprop:Generator_RowDeletedName="TransmittalDataRowDeleted" msprop:Generator_UserTableName="TransmittalData" msprop:Generator_RowChangedName="TransmittalDataRowChanged" msprop:Generator_RowEvArgName="TransmittalDataRowChangeEvent" msprop:Generator_RowClassName="TransmittalDataRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CARDNAME" msprop:Generator_ColumnVarNameInTable="columnCARDNAME" msprop:Generator_ColumnPropNameInRow="CARDNAME" msprop:Generator_ColumnPropNameInTable="CARDNAMEColumn" msprop:Generator_UserColumnName="CARDNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="CARDNUMBER" msprop:Generator_ColumnVarNameInTable="columnCARDNUMBER" msprop:Generator_ColumnPropNameInRow="CARDNUMBER" msprop:Generator_ColumnPropNameInTable="CARDNUMBERColumn" msprop:Generator_UserColumnName="CARDNUMBER" type="xs:string" minOccurs="0" />
+              <xs:element name="COMPANY" msprop:Generator_ColumnVarNameInTable="columnCOMPANY" msprop:Generator_ColumnPropNameInRow="COMPANY" msprop:Generator_ColumnPropNameInTable="COMPANYColumn" msprop:Generator_UserColumnName="COMPANY" type="xs:string" minOccurs="0" />
+              <xs:element name="BRANCH_NAME" msprop:Generator_ColumnVarNameInTable="columnBRANCH_NAME" msprop:Generator_ColumnPropNameInRow="BRANCH_NAME" msprop:Generator_ColumnPropNameInTable="BRANCH_NAMEColumn" msprop:Generator_UserColumnName="BRANCH_NAME" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

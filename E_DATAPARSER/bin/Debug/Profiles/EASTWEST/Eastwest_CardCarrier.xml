@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+
+  <!--<DLL FilePath="E:\EDEL\E_DATAPARSER\ClientDLL_Eastwest_CardCarrier\bin\Debug\ClientDLL_Eastwest_CardCarrier.dll" RunNativeGenerateOutput="True"></DLL>
+  <DLL FilePath="Profiles\EASTWEST\ClientDLL_Eastwest_CardCarrier.dll" RunNativeGenerateOutput="True"></DLL>-->
+
+  <Input ParserType="FixLen"> 
+	<Column ID="FNAME" StartPosition="29" DataLength="20"></Column>
+	<Column ID="MNAME" StartPosition="49" DataLength="20"></Column>
+	<Column ID="LNAME" StartPosition="69" DataLength="20"></Column>
+	<Column ID="ADDRESS1" StartPosition="89" DataLength="40"></Column>
+	<Column ID="ADDRESS2" StartPosition="129" DataLength="40"></Column>
+	<Column ID="ADDRESS3" StartPosition="169" DataLength="40"></Column>
+	<Column ID="CITY" StartPosition="209" DataLength="40"></Column>
+	<Column ID="PROVINCE" StartPosition="249" DataLength="40"></Column>	
+	<Column ID="PIN" StartPosition="364" DataLength="20"></Column>	
+	<Column ID="NAME" Concatenate="001"></Column>	
+	<Column ID="ADDRESS" Concatenate="002"></Column>
+	<Column ID="BARCODE" Concatenate="003"></Column>
+  </Input>
+  
+   <Output ParserType="Delimited" Delimiter="|" OutputFileName="_PARSED_DATA" FileExtension=".txt" PDFOutput="001">
+	<Column ID="NAME"></Column>	
+	<Column ID="ADDRESS"></Column>		
+	<Column ID="BARCODE"></Column>	
+  </Output>
+  
+  <Concatenate ID="001">
+	<Column ID="NAME1" RefID="FNAME"></Column>
+	<Column ID="NAME2" DefaultValue=" "></Column>
+	<Column ID="NAME3" RefID="MNAME"></Column>
+	<Column ID="NAME4" DefaultValue=" "></Column>
+	<Column ID="NAME5" RefID="LNAME"></Column>	
+  </Concatenate>
+  
+  <Concatenate ID="002">
+	<Column ID="ADDR1" RefID="ADDRESS1"></Column>
+	<Column ID="ADDR2" DefaultValue=" "></Column>
+	<Column ID="ADDR3" RefID="ADDRESS2"></Column>
+	<Column ID="ADDR4" DefaultValue=" "></Column>
+	<Column ID="ADDR5" RefID="ADDRESS3"></Column>
+	<Column ID="ADDR6" DefaultValue=" "></Column>
+	<Column ID="ADDR7" RefID="CITY"></Column>	
+	<Column ID="ADDR8" DefaultValue=" "></Column>
+	<Column ID="ADDR9" RefID="PROVINCE"></Column>	
+  </Concatenate>
+  
+  <Concatenate ID="003">
+	<Column ID="BARCODE" DefaultValue="NVPHXKOMO"></Column>
+	<Column ID="BARCODE2" RefID="PIN" Right="9"></Column>		
+  </Concatenate>
+  
+    <PDFOutput ID="001" RecordPerPage="1" OutputFileName="_Carrier">
+	<Column ID="NAME" ObjectType="String" XFontName="Patron Med"  XFontSize="8" XFontStyle="2" XRectX="10"  XRectY="100" XRectWidth="300" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>
+	<Column ID="ADDRESS" ObjectType="String" XFontName="Patron ExtLt"  XFontSize="8" XFontStyle="1" XRectX="10"  XRectY="110" XRectWidth="150" XRectHeight="20" XStringFormat="2" XBrush="0" XParagraphAlignment="1" IsDrawRect="0"></Column>	
+	<Column ID="BARCODE" ObjectType="Barcode" BarcodeSymbology="QRCode" BarcodeDisplayCode="0" ImageFormat="jpg" CropX="0" CropY="0" CropWidth="0" CropHeight="0" XRectX="100" XRectY="350" XRectWidth="50" XRectHeight="50"></Column>		
+  </PDFOutput> 
+ 
+	
+</ClientProfile>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>  
+  <!--<DLL FilePath="Profiles\UBP\ClientDLL_UBP_Eon.dll" RunNativeGenerateOutput="True"></DLL>
+  <DLL FilePath="D:\ACC\Projects\E_DATAPARSER\ClientDLL_UBP_Eon\bin\Debug\ClientDLL_UBP_Eon.dll" RunNativeGenerateOutput="True"></DLL>-->
+  <DLL FilePath="D:\20200122\E_DATAPARSER\E_DATAPARSER\E_DATAPARSER\bin\Debug\Profiles\UBP\ClientDLL_UBP_Eon.dll" RunNativeGenerateOutput="True"></DLL>  
+
+  <!--<Input FileExtension=".XLSX" ExclColumnQuery="[Suffix] As PREFIX, [First_Name] As FNAME, [Middle_Name] As MNAME, [Last_Name] As LNAME, [Address] As ADDRESS, [Country] As COUNTRY, [Zip Code] As ZIPCODE, [Card Number] As CARDNO, [Credit Limit] As CREDITLIMIT, [Statement Date] As STATEMENTDATE, [Payment Due Date] As PAYMENTDUEDATE" ExclWhereQuery=""> -->
+  <Input FileExtension=".XLSX" ExclColumnQuery="*" ExclWhereQuery=""> 
+	<Column ID="PREFIX" SheetColumnName="PREFIX"></Column>		
+	<Column ID="FNAME" SheetColumnName="FNAME"></Column>	
+	<Column ID="MNAME" SheetColumnName="MNAME"></Column>	
+	<Column ID="LNAME" SheetColumnName="LNAME"></Column>	
+	<Column ID="ADDRESS" SheetColumnName="ADDRESS"></Column>	
+	<Column ID="COUNTRY" SheetColumnName="COUNTRY"></Column>
+	<Column ID="ZIPCODE" SheetColumnName="ZIPCODE"></Column>
+	<Column ID="CARDNO" SheetColumnName="CARDNO"></Column>
+	<Column ID="CREDITLIMIT" SheetColumnName="CREDITLIMIT"></Column>
+	<Column ID="STATEMENTDATE" SheetColumnName="STATEMENTDATE"></Column>
+	<Column ID="PAYMENTDUEDATE" SheetColumnName="PAYMENTDUEDATE"></Column>	
+	<Column ID="REFNO" SheetColumnName="CARDNO"></Column>
+  </Input>
+  
+  
+  <!--<Output ParserType="FixLen" OutputFileName="_PARSED_DATA" FileExtension=".xls">
+	<Column ID="REFNO" DataLength="8"></Column>	
+	<Column ID="CARDNO" DataLength="4"></Column>
+	<Column ID="EXPIRYDATE" DataLength="5"></Column>	
+  </Output>-->	
+  
+   <Output ParserType="Delimited" Delimiter="|" OutputFileName="_PARSED_DATA" FileExtension=".txt">
+	<Column ID="COMPLETE_NAME"></Column>		
+	<Column ID="COMPLETE_ADDRESS"></Column>	
+	<Column ID="CARDNO"></Column>	
+	<Column ID="CREDITLIMIT"></Column>	
+	<Column ID="STATEMENTDATE"></Column>	
+	<Column ID="PAYMENTDUEDATE"></Column>	
+	<Column ID="REFNO"></Column>	
+  </Output>
+ 
+	
+</ClientProfile>

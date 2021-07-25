@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+
+  <DLL FilePath="G:\E_DATAPARSER\ClientDLL_UBP_Epay\bin\Debug\ClientDLL_UBP_Epay.dll" RunNativeGenerateOutput="True"></DLL>
+  <!--<DLL FilePath="Profiles\METROBANK\ClientDLL.dll" RunNativeGenerateOutput="True"></DLL>-->
+
+  <Input ParserType="Delimited" Delimiter="|" IsWithHeader="True"> 
+	<Column ID="EMBOSSNAME" IndexPosition="0"></Column>
+	<Column ID="CARDNUMBER" IndexPosition="7"></Column>
+	<Column ID="REFNO" IndexPosition="10"></Column>		
+  </Input> 
+  
+  <Output ParserType="Delimited">
+	<Column ID="EMBOSSNAME"></Column>
+	<Column ID="CARDNUMBER"></Column>
+	<Column ID="REFNO"></Column>	
+  </Output> 
+  
+  <!-- <Output ParserType="FixLen" OutputFileName="_PARSED_DATA" FileExtension=".xls"> -->
+	<!-- <Column ID="NAME" DataLength="26"></Column>	 -->
+	<!-- <Column ID="ADDRESS1" DataLength="100"></Column> -->
+	<!-- <Column ID="ADDRESS2" DataLength="100"></Column> -->
+	<!-- <Column ID="ADDRESS3" DataLength="100"></Column> -->
+	<!-- <Column ID="ADDRESS4" DataLength="100"></Column> -->
+	<!-- <Column ID="ADDRESS5" DataLength="20"></Column>	 -->
+	<!-- <Column ID="ZIPCODE" DataLength="5"></Column>	 -->
+	<!-- <Column ID="CREDITLIMIT" DataLength="35"></Column>	 -->
+	<!-- <Column ID="SUBLIMIT" DataLength="35"></Column> -->
+	<!-- <Column ID="STATEMENT_DATE" DataLength="35"></Column> -->
+	<!-- <Column ID="PAYMENT_DUE_DATE1" DefaultValue="PAYMENT DUE DATE: AT LEAST 21 DAYS" DataLength="55"></Column> -->
+	<!-- <Column ID="PAYMENT_DUE_DATE2" DefaultValue="                                      AFTER STATEMENT DATE" DataLength="55"></Column>		  -->
+  <!-- </Output> -->
+  
+ 
+	
+</ClientProfile>

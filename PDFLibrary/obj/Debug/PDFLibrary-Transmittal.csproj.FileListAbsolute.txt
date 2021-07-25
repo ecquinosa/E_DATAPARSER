@@ -1,0 +1,5 @@
+D:\ADP\Configurations\CHINABANK\Library\Output\PDF\PDFLibrary.dll
+D:\ADP\Configurations\CHINABANK\Library\Output\PDF\PDFLibrary.pdb
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary - Transmittal\obj\Debug\PDFLibrary-Transmittal.csprojResolveAssemblyReference.cache
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary - Transmittal\obj\Debug\PDFLibrary.dll
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary - Transmittal\obj\Debug\PDFLibrary.pdb

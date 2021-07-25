@@ -1,0 +1,63 @@
+E:\ACC\Google Docs\Home\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.dll
+E:\ACC\Google Docs\Home\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.pdb
+E:\ACC\Google Docs\Home\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.xml
+E:\ACC\Google Docs\Home\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbprojAssemblyReference.cache
+E:\ACC\Google Docs\Home\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.Resources.resources
+E:\ACC\Google Docs\Home\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbproj.GenerateResource.cache
+E:\ACC\Google Docs\Home\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbproj.CoreCompileInputs.cache
+E:\ACC\Google Docs\Home\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.dll
+E:\ACC\Google Docs\Home\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.xml
+E:\ACC\Google Docs\Home\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.pdb
+D:\EDEL\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.dll
+D:\EDEL\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.pdb
+D:\EDEL\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.xml
+D:\EDEL\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.Resources.resources
+D:\EDEL\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbproj.GenerateResource.Cache
+D:\EDEL\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.dll
+D:\EDEL\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.xml
+D:\EDEL\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.pdb
+F:\Projects\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.dll
+F:\Projects\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.pdb
+F:\Projects\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.xml
+F:\Projects\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.Resources.resources
+F:\Projects\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbproj.GenerateResource.Cache
+F:\Projects\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.dll
+F:\Projects\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.xml
+F:\Projects\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.dll
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.pdb
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.xml
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.Resources.resources
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbproj.GenerateResource.Cache
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbproj.CoreCompileInputs.cache
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.dll
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.xml
+C:\Users\lvagulto\Desktop\Work\2k19\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.pdb
+G:\E_DATAPARSER\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.dll
+G:\E_DATAPARSER\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.pdb
+G:\E_DATAPARSER\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.xml
+G:\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbprojAssemblyReference.cache
+G:\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.Resources.resources
+G:\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbproj.GenerateResource.cache
+G:\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbproj.CoreCompileInputs.cache
+G:\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.dll
+G:\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.xml
+G:\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.pdb
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.xml
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbprojAssemblyReference.cache
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.Resources.resources
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbproj.GenerateResource.cache
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.dll
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.xml
+D:\WORK\Projects\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.pdb
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PrintDoc\bin\Debug\PrintDoc.xml
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.Resources.resources
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbproj.GenerateResource.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.vbproj.CoreCompileInputs.cache
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.dll
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.xml
+D:\20200122\E_DATAPARSER\E_DATAPARSER\PrintDoc\obj\Debug\PrintDoc.pdb

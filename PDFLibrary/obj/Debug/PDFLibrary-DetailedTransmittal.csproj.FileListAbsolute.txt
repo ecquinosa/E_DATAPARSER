@@ -1,0 +1,16 @@
+D:\ADP\Configurations\CHINABANK\Library\Output\PDF\PDFLibraryDT.dll
+D:\ADP\Configurations\CHINABANK\Library\Output\PDF\PDFLibraryDT.pdb
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary - DetailedTransmittal\obj\Debug\PDFLibrary-DetailedTransmittal.csprojResolveAssemblyReference.cache
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary - DetailedTransmittal\obj\Debug\PDFLibraryDT.dll
+D:\Internal\Project 2017\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary - DetailedTransmittal\obj\Debug\PDFLibraryDT.pdb
+D:\Internal\ADP\Configurations\CHINABANK\Library\Output\PDF\PDFLibraryDT.dll
+D:\Internal\ADP\Configurations\CHINABANK\Library\Output\PDF\PDFLibraryDT.pdb
+D:\Internal\Project 2017\Ateilla Data Parser Project\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary - DetailedTransmittal\obj\Debug\PDFLibrary-DetailedTransmittal.csprojResolveAssemblyReference.cache
+D:\Internal\Project 2017\Ateilla Data Parser Project\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary - DetailedTransmittal\obj\Debug\PDFLibraryDT.dll
+D:\Internal\Project 2017\Ateilla Data Parser Project\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary - DetailedTransmittal\obj\Debug\PDFLibraryDT.pdb
+F:\ADP\Configurations\CHINABANK\Library\Output\PDF\PDFLibraryDT.dll
+F:\ADP\Configurations\CHINABANK\Library\Output\PDF\PDFLibraryDT.pdb
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary - DetailedTransmittal\obj\Debug\PDFLibrary-DetailedTransmittal.csprojResolveAssemblyReference.cache
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary - DetailedTransmittal\obj\Debug\PDFLibrary-DetailedTransmittal.csproj.CoreCompileInputs.cache
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary - DetailedTransmittal\obj\Debug\PDFLibraryDT.dll
+F:\Projects\ALLCARD PLANT DATA PARSER\Ateilla Data Parser 2.0.0.0\Ateilla_Data_Parser\Clients\CHINABANK\CBC\Output\PDFLibrary - DetailedTransmittal\obj\Debug\PDFLibraryDT.pdb

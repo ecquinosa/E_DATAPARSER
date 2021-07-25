@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientProfile>
+
+  <!--<DLL FilePath="D:\ACC\Projects\E_DATAPARSER\ClientDLL\bin\Debug\ClientDLL.dll" RunNativeGenerateOutput="True"></DLL>-->
+  <DLL FilePath="E:\EDEL\E_DATAPARSER\ClientDLL_Robinsons_Visa\bin\Debug\ClientDLL_Robinsons_Visa.dll" RunNativeGenerateOutput="True"></DLL>
+
+  <Input ParserType="Delimited" Delimiter=","> 
+	<Column ID="CARDNUMBER" IndexPosition="0"></Column>
+	<Column ID="CARDNAME" IndexPosition="6"></Column>
+	<Column ID="TRACK1" IndexPosition="29"></Column>
+	<Column ID="TRACK2" IndexPosition="16"></Column>
+	<Column ID="ADDRESS1" IndexPosition="17"></Column>
+	<Column ID="ADDRESS2" IndexPosition="18"></Column>	
+	<Column ID="ADDRESS3" IndexPosition="19"></Column>
+	<Column ID="BRANCH_NAME" IndexPosition="12"></Column>
+	<Column ID="COMPANY" IndexPosition="13"></Column>	
+  </Input>  
+ 
+  <Output ParserType="Delimited">
+	<Column ID="CARDNAME"></Column>
+	<Column ID="CARDNUMBER"></Column>
+	<Column ID="COMPANY"></Column>
+	<Column ID="BRANCH_NAME"></Column>	
+  </Output> 
+  
+  <!--
+  <Grouping>
+		<Condition FilterExpression="BRANCH_NAME" OutputFileName="_BRANCH_NAME"></Condition>
+	</Grouping>
+  <Condition FilterExpression="BRANCH_NAME" OutputFileName="_BRANCH_NAME" FileExtension=".xlsx"></Condition>-->
+	
+</ClientProfile>
